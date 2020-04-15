@@ -11,5 +11,5 @@ Learning ER data workflow by using Sequelize
 ---
 
 <div align="center">
-  Clone at your own risk property own by Rahul Prajapati and Akshat Goel
+  Clone at your own risk. This repository is for assignment purposes.
 </div>
