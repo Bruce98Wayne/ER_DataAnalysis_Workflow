@@ -5,7 +5,7 @@ Learning ER data workflow by using Sequelize
 
 * Unzip dataset 
   ```shell
-  unzip Dataset.zip -d ./Data
+  unzip Dataset.zip -d ./data
   ```
 
 ---
