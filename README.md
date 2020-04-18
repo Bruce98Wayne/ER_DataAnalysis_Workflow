@@ -7,7 +7,7 @@ Learning ER data workflow by using Sequelize
   ```shell
   unzip Dataset.zip -d ./data
   ```
-
+* Install sequelize cli 
 ---
 
 <div align="center">
