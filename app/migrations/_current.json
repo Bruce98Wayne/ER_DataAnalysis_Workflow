@@ -1,0 +1,37 @@
+{
+    "tables": {
+        "Cities": {
+            "tableName": "Cities",
+            "indexes": []
+        },
+        "Dates": {
+            "tableName": "Dates",
+            "indexes": []
+        },
+        "DateTimes": {
+            "tableName": "DateTimes",
+            "indexes": []
+        },
+        "States": {
+            "tableName": "States",
+            "indexes": []
+        },
+        "Texts": {
+            "tableName": "Texts",
+            "indexes": []
+        },
+        "Times": {
+            "tableName": "Times",
+            "indexes": []
+        },
+        "Users": {
+            "tableName": "Users",
+            "indexes": []
+        },
+        "dateTime": {
+            "tableName": "dateTime",
+            "indexes": []
+        }
+    },
+    "revision": 1
+}

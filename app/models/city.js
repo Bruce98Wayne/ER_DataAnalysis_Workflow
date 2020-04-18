@@ -2,7 +2,7 @@
 module.exports = (sequelize, DataTypes) => {
   const City = sequelize.define('City', {
     cityId: {
-        type: Sequelize.INTEGER,
+        type: DataTypes.INTEGER,
         autoIncrement: true,
         primaryKey: true
     },
@@ -13,7 +13,7 @@ module.exports = (sequelize, DataTypes) => {
 }, {});
   City.associate = function(models) {
     // associations can be defined here
-    models.City.hasMany(models.Users, {foreignKey: 'userId'})
+    models.City.hasMany(models.User, {foreignKey: 'userId'})
   };
   return City;
 };

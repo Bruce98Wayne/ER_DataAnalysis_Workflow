@@ -2,17 +2,13 @@
 module.exports = (sequelize, DataTypes) => {
   const User = sequelize.define('User', {
     userId: {
-        type: Sequelize.INTEGER,
-        autoIncrement: true,
-        primaryKey: true
-    },
-    id: {
         type: DataTypes.INTEGER,
-        allowNull : false
+        allowNull : false,
+        primaryKey: true
     },
     name: {
       type: DataTypes.STRING,
-      allowNull : false
+      allowNull : true
   },
 }, {});
   User.associate = function(models) {

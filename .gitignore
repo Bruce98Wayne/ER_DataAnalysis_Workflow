@@ -1,5 +1,20 @@
-#ignore dataset
-/Data
+#junk
 .DS_Store
+
+#ignore dataset
+/data
+
+#ignore notebook checkpoints
 .ipynb_checkpoints
+
+#node modules
 /app/node_modules
+
+#ignore userMessage.csv
+/csv/userMessage.csv
+
+#remove config
+/app/config/config.json
+
+#remove docker docker compose
+/app/docker-compose.yml

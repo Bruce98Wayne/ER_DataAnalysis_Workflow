@@ -2,7 +2,7 @@
 module.exports = (sequelize, DataTypes) => {
   const State = sequelize.define('State', {
     stateId: {
-        type: Sequelize.INTEGER,
+        type: DataTypes.INTEGER,
         autoIncrement: true,
         primaryKey: true
     },

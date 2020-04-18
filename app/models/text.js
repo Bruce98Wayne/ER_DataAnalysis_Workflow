@@ -2,7 +2,7 @@
 module.exports = (sequelize, DataTypes) => {
   const Text = sequelize.define('Text', {
     textId: {
-        type: Sequelize.INTEGER,
+        type: DataTypes.INTEGER,
         autoIncrement: true,
         primaryKey: true
     },
@@ -13,7 +13,7 @@ module.exports = (sequelize, DataTypes) => {
 }, {});
 Text.associate = function(models) {
     // associations can be defined here
-    models.Text.has(models.DateTime, {foreignKey: 'dateTimeId'})
+    models.Text.hasOne(models.DateTime, {foreignKey: 'id'})
   };
   return Text;
 };

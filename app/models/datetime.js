@@ -1,8 +1,8 @@
 'use strict';
 module.exports = (sequelize, DataTypes) => {
-  const Time = sequelize.define('Time', {
+  const DateTime = sequelize.define('DateTime', {
     timeId: {
-        type: Sequelize.INTEGER,
+        type: DataTypes.INTEGER,
         allowNull: false,
         references: {
         model: 'Time',
@@ -10,7 +10,7 @@ module.exports = (sequelize, DataTypes) => {
       }
     },
     dateId: {
-        type: Sequelize.INTEGER,
+        type: DataTypes.INTEGER,
         allowNull: false,
         references: {
         model: 'Date',
@@ -18,5 +18,5 @@ module.exports = (sequelize, DataTypes) => {
       }
     },
 }, {});
-  return Time;
+  return DateTime;
 };

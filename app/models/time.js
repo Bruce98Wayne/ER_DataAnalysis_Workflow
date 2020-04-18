@@ -2,12 +2,12 @@
 module.exports = (sequelize, DataTypes) => {
   const Time = sequelize.define('Time', {
     timeId: {
-        type: Sequelize.INTEGER,
+        type: DataTypes.INTEGER,
         autoIncrement: true,
         primaryKey: true
     },
     time: {
-        type: DataTypes.DATEONLY,
+        type: DataTypes.TIME,
         allowNull : true
     },
 }, {});
@@ -15,7 +15,7 @@ module.exports = (sequelize, DataTypes) => {
     // associations can be defined here
     models.Time.belongsToMany(models.Time, {
         through: 'dateTime',
-        as: 'Date'
+        as: 'Date',
         foreignKey: 'timeId'})
   };
   return Time;
