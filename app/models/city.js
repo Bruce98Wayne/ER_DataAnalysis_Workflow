@@ -1,6 +1,6 @@
 'use strict';
 module.exports = (sequelize, DataTypes) => {
-  const User = sequelize.define('City', {
+  const City = sequelize.define('City', {
     cityId: {
         type: Sequelize.INTEGER,
         autoIncrement: true,

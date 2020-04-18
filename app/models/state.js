@@ -1,6 +1,6 @@
 'use strict';
 module.exports = (sequelize, DataTypes) => {
-  const User = sequelize.define('State', {
+  const State = sequelize.define('State', {
     stateId: {
         type: Sequelize.INTEGER,
         autoIncrement: true,
