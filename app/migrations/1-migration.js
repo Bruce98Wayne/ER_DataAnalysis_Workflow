@@ -28,7 +28,15 @@ var migrationCommands = [{
         params: [
             "Cities",
             {
-
+                "cityId": {
+                    "type": Sequelize.INTEGER,
+                    "autoIncrement": true,
+                    "primaryKey": true
+                },
+                "name": {
+                    "type": Sequelize.STRING,
+                    "allowNull" : true
+                },
             },
             {}
         ]
@@ -38,7 +46,15 @@ var migrationCommands = [{
         params: [
             "Dates",
             {
-
+                "dateId": {
+                    "type": Sequelize.INTEGER,
+                    "autoIncrement": true,
+                    "primaryKey": true
+                },
+                "date": {
+                    "type": Sequelize.DATEONLY,
+                    "allowNull" : true
+                },
             },
             {}
         ]
@@ -48,6 +64,11 @@ var migrationCommands = [{
         params: [
             "DateTimes",
             {
+                "id": {
+                    "type": Sequelize.INTEGER,
+                    "autoIncrement": true,
+                    "primaryKey": true
+                  }
 
             },
             {}
@@ -58,7 +79,15 @@ var migrationCommands = [{
         params: [
             "States",
             {
-
+                "stateId": {
+                    "type": Sequelize.INTEGER,
+                    "autoIncrement": true,
+                    "primaryKey": true
+                },
+                "name": {
+                    "type": Sequelize.STRING,
+                    "allowNull" : true
+                },
             },
             {}
         ]
@@ -68,7 +97,15 @@ var migrationCommands = [{
         params: [
             "Texts",
             {
-
+                "textId": {
+                    "type": Sequelize.INTEGER,
+                    "autoIncrement": true,
+                    "primaryKey": true
+                },
+                "text": {
+                  "type": Sequelize.STRING,
+                  "allowNull" : false
+              },
             },
             {}
         ]
@@ -77,7 +114,16 @@ var migrationCommands = [{
         fn: "createTable",
         params: [
             "Times",
-            {
+            {    
+            "timeId": {
+                "type": Sequelize.INTEGER,
+                "autoIncrement": true,
+                "primaryKey": true
+            },
+            "time": {
+                "type": Sequelize.TIME,
+                "allowNull" : true
+            },
 
             },
             {}
@@ -88,21 +134,19 @@ var migrationCommands = [{
         params: [
             "Users",
             {
-
+                "userId": {
+                    "type": Sequelize.INTEGER,
+                    "allowNull" : false,
+                    "primaryKey": true
+                },
+                "name": {
+                  "type": Sequelize.STRING,
+                  "allowNull" : true
+              },
             },
             {}
         ]
     },
-    {
-        fn: "createTable",
-        params: [
-            "dateTime",
-            {
-
-            },
-            {}
-        ]
-    }
 ];
 
 module.exports = {

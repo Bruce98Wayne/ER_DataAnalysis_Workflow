@@ -11,12 +11,5 @@ module.exports = (sequelize, DataTypes) => {
         allowNull : true
     },
 }, {});
-  Date.associate = function(models) {
-    // associations can be defined here
-    models.Date.belongsToMany(models.Time, {
-        through: 'dateTime',
-        as: 'Time',
-        foreignKey: 'dateId'})
-  };
   return Date;
 };

@@ -1,22 +1,16 @@
 'use strict';
 module.exports = (sequelize, DataTypes) => {
   const DateTime = sequelize.define('DateTime', {
-    timeId: {
-        type: DataTypes.INTEGER,
-        allowNull: false,
-        references: {
-        model: 'Time',
-        key: 'timeId'
-      }
-    },
-    dateId: {
-        type: DataTypes.INTEGER,
-        allowNull: false,
-        references: {
-        model: 'Date',
-        key: 'dateId'
-      }
-    },
+    id: {
+      type: DataTypes.INTEGER,
+      autoIncrement: true,
+      primaryKey: true
+    }
 }, {});
+DateTime.associate = function(models) {
+  // associations can be defined here
+Date.belongsToMany(Time, { through: DateTime });
+Time.belongsToMany(Date, { through: DateTime });
+};
   return DateTime;
 };
