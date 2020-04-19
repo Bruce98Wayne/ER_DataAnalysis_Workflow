@@ -5,6 +5,7 @@ module.exports = (sequelize, DataTypes) => {
   }, {});
   Time.associate = function(models) {
     // associations can be defined here
+    Time.belongsToMany(models.Date, { through: 'DateTime' });
   };
   return Time;
 };

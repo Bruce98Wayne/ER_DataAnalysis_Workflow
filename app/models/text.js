@@ -5,6 +5,8 @@ module.exports = (sequelize, DataTypes) => {
   }, {});
   Text.associate = function(models) {
     // associations can be defined here
+    Text.belongsTo(models.User)
+    Text.belongsTo(models.DateTime)
   };
   return Text;
 };

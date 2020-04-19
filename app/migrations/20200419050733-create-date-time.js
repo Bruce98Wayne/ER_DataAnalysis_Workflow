@@ -8,8 +8,19 @@ module.exports = {
         primaryKey: true,
         type: Sequelize.INTEGER
       },
-      dateTimeId: {
-        type: Sequelize.INTEGER
+      timeId: {
+        type: Sequelize.INTEGER,
+        references: {         // User hasMany WorkingDays n:n
+          model: 'Times',
+          key: 'id'
+        }
+      },
+      dateId: {
+        type: Sequelize.INTEGER,
+        references: {         // User hasMany WorkingDays n:n
+          model: 'Dates',
+          key: 'id'
+        }
       },
       createdAt: {
         allowNull: false,

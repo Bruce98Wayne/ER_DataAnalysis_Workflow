@@ -11,6 +11,20 @@ module.exports = {
       message: {
         type: Sequelize.STRING
       },
+      userId:{
+        type: Sequelize.INTEGER,
+        references: {
+          model: 'Users', // name of Source model
+          key: 'id',
+        }
+      },
+      dateTimeId: {
+        type: Sequelize.INTEGER,
+        references: {         // User hasMany WorkingDays n:n
+          model: 'DateTimes',
+          key: 'id'
+        }
+      },
       createdAt: {
         allowNull: false,
         type: Sequelize.DATE

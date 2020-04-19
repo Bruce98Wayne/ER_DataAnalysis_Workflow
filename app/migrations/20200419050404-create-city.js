@@ -11,6 +11,13 @@ module.exports = {
       name: {
         type: Sequelize.STRING
       },
+      stateId:{ // name of the key we're adding{
+        type: Sequelize.INTEGER,
+        references: {
+          model: 'States', // name of Source model
+          key: 'id',
+        }
+      },
       createdAt: {
         allowNull: false,
         type: Sequelize.DATE

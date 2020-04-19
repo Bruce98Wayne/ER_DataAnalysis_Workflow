@@ -11,6 +11,17 @@ module.exports = {
       name: {
         type: Sequelize.STRING
       },
+      userId:{
+        type: Sequelize.STRING
+      },
+      cityId: {
+        type: Sequelize.INTEGER,
+        allowNull: false,
+        references: {         // User belongsTo Company 1:1
+          model: 'Cities',
+          key: 'id'
+        }
+      },
       createdAt: {
         allowNull: false,
         type: Sequelize.DATE
