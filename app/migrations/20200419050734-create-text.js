@@ -11,14 +11,14 @@ module.exports = {
       message: {
         type: Sequelize.STRING
       },
-      userId:{
+      UserId:{
         type: Sequelize.INTEGER,
         references: {
           model: 'Users', // name of Source model
           key: 'id',
         }
       },
-      dateTimeId: {
+      DateTimeId: {
         type: Sequelize.INTEGER,
         references: {         // User hasMany WorkingDays n:n
           model: 'DateTimes',

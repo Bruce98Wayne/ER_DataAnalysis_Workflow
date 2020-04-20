@@ -14,7 +14,7 @@ module.exports = {
       userId:{
         type: Sequelize.STRING
       },
-      cityId: {
+      CityId: {
         type: Sequelize.INTEGER,
         allowNull: false,
         references: {         // User belongsTo Company 1:1

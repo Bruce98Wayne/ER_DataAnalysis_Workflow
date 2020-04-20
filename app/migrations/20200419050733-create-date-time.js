@@ -8,14 +8,14 @@ module.exports = {
         primaryKey: true,
         type: Sequelize.INTEGER
       },
-      timeId: {
+      TimeId: {
         type: Sequelize.INTEGER,
         references: {         // User hasMany WorkingDays n:n
           model: 'Times',
           key: 'id'
         }
       },
-      dateId: {
+      DateId: {
         type: Sequelize.INTEGER,
         references: {         // User hasMany WorkingDays n:n
           model: 'Dates',

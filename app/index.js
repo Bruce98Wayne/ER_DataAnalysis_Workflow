@@ -2,18 +2,12 @@ const express = require('express')
 const logger = require('morgan')
 const bodyParser = require('body-parser')
 const http = require('http')
-const Sequelize = require('sequelize')
-
 const app = express();
-
-const db = new Sequelize("message_app", "root", "", {
-    host: "localhost",
-    port: 3306,
-    dialect: "mysql",
-    define: { timestamps: false },
-    logging: false
-}) 
-
+const Sequelize = require('sequelize')
+const sequelize = require('./db')
+const models = require('./models')
+const csv = require('csv-parser');
+const fs = require('fs');
 
 app.use(logger('dev'));
 
@@ -21,22 +15,33 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 // Setup a default catch-all route that sends back a welcome message in JSON format.
 app.get('*', (req, res) => {
-    db.authenticate().then((response)=> console.log(response))
     res.status(200).send({
-        message: "Connection created!"
+        message: "Get"
     })
 });
+
+app.post('/csv', (req, res) => {
+    console.log("Post request");
+    res.status(200).send({
+        message: "Post"
+    })
+});
+const statesArr = []
+fs.createReadStream('../csv/state.csv')
+  .pipe(csv())
+  .on('data', (row) => {
+    statesArr.push({name : row.state})
+  })
+  .on('end', async () => {
+    await sequelize.sync().then(models.State.bulkCreate(statesArr))
+    console.log('CSV file successfully processed');
+  });
+
+
 const port = parseInt(process.env.PORT, 10) || 8000;
-
-try {
-    db.authenticate();
-    console.log('Connection has been established successfully.');
-  } catch (error) {
-    console.error('Unable to connect to the database:', error);
-  }
-
 
 app.set('port', port);
 const server = http.createServer(app);
 server.listen(port);
 module.exports = app;
+

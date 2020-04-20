@@ -1,11 +1,21 @@
 'use strict';
+
 module.exports = (sequelize, DataTypes) => {
   const State = sequelize.define('State', {
-    name: DataTypes.STRING
+    name: DataTypes.STRING,
+    createdAt: {
+      allowNull: false,
+      type: DataTypes.DATE
+    },
+    updatedAt: {
+      allowNull: false,
+      type: DataTypes.DATE
+    }
   }, {});
   State.associate = function(models) {
     // associations can be defined here
-    State.hasMany(models.City)
   };
+  State.beta = true;
+
   return State;
 };
