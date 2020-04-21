@@ -20,23 +20,36 @@ app.get('*', (req, res) => {
     })
 });
 
-app.post('/csv', (req, res) => {
-    console.log("Post request");
-    res.status(200).send({
-        message: "Post"
-    })
-});
-const statesArr = []
-fs.createReadStream('../csv/state.csv')
+function load(){
+  //Creating states
+  const statesArr = []
+  fs.createReadStream('../csv/state.csv')
   .pipe(csv())
-  .on('data', (row) => {
-    statesArr.push({name : row.state})
+  .on('data', async (row) => {
+
+    const stateMap = {}
+    const stateName = row.state
+    const [ state, created] =  await models.State.findOrCreate({
+      where:{name: stateName},
+      logging: false
+    });
+    stateMap[stateName] = state.ids
+    console.log(`Created Id: ${state.id}, State: ${stateName}.....`);
+
   })
-  .on('end', async () => {
-    await sequelize.sync().then(models.State.bulkCreate(statesArr))
+  .on('end', () => {
     console.log('CSV file successfully processed');
   });
 
+
+  return statesArr
+}
+app.post('/csv', (req, res) => {
+    console.log("Post request");
+    res.status(200).send({
+        message: load()
+    })
+});
 
 const port = parseInt(process.env.PORT, 10) || 8000;
 

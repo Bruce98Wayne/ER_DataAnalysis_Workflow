@@ -82,4 +82,4 @@ try {
 
 create()
 
-module.exports = sequelize;
+module.exports = sequelize
