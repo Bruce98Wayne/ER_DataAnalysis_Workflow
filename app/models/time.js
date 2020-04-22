@@ -2,7 +2,7 @@
 
 module.exports = (sequelize, DataTypes) => {
   const Time = sequelize.define('Time', {
-  time: DataTypes.TIME,
+  time: DataTypes.STRING,
   createdAt: {
     allowNull: false,
     type: DataTypes.DATE

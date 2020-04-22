@@ -3,7 +3,7 @@
 module.exports = (sequelize, DataTypes) => {
   const Date = sequelize.define('Date', {
     
-    date: DataTypes.DATEONLY,
+    date: DataTypes.STRING,
     createdAt: {
       allowNull: false,
       type: DataTypes.DATE

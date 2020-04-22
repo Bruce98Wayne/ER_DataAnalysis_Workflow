@@ -1,0 +1,2001 @@
+,id,name,city
+0,000000,Deandre Seftick,San Juan Pueblo
+1,000001,Chanelle Grabinski,Grantsburg
+2,000002,Kip Maciver,Island Park
+3,000003,Verline Degman,Dellroy
+4,000004,Scarlett Galway,Maricopa
+5,000005,Devin Goard,Colorado Springs
+6,000006,Yulanda Palino,Grouse Creek
+7,000007,Josphine Helem,Ogden
+8,000008,Larry Isabell,Ojibwa
+9,000009,Blondell Hungerford,Camp Nelson
+10,000010,Arianne Blackstock,Crystal Lake
+11,000011,Pauletta Westenhaver,Oklahoma City
+12,000012,Annalee Mcsharry,Putney
+13,000013,Lou Krawitz,Jacksonville
+14,000014,Janell Kowalowski,Riverdale
+15,000015,Kera Somani,Burlington
+16,000016,Sierra Molineaux,Philadelphia
+17,000017,Ela Aggers,Hinesville
+18,000018,Leon Verhoff,Hereford
+19,000019,Estefana Horine,South Dennis
+20,000020,Jutta Shopen,Lindale
+21,000021,Shaunda Malfatti,Long Beach
+22,000022,Ileana Bynam,Monroe
+23,000023,Edythe Zito,Yakima
+24,000024,Seth Purkhiser,Effie
+25,000025,Tami Bayani,Davant
+26,000026,Joey Klaers,Arp
+27,000027,Malcom Maccarter,Pacific
+28,000028,Ira Mattson,New Lisbon
+29,000029,Hildegard Catoire,Sabinal
+30,000030,Jeffrey Inoue,Hillsdale
+31,000031,Zina Laiche,Oil City
+32,000032,Lorean Casparis,Emmons
+33,000033,Karlene Stormer,Cincinnati
+34,000034,Rhona Corrao,Minneapolis
+35,000035,Mireya Standing,Lake City
+36,000036,Lazaro Sunier,Rutland
+37,000037,Lula Buddemeyer,Conetoe
+38,000038,Carlos Steffenhagen,Bloomingburg
+39,000039,Darcel Ouzts,Kansas City
+40,000040,Alexia Lightcap,Stamford
+41,000041,Benita Ancalade,Bakersfield
+42,000042,Elinore Skelton,Augusta
+43,000043,Kenna Sensenig,Flatwoods
+44,000044,Ramonita Mannan,Daytona Beach
+45,000045,Codi Goodenow,South Casco
+46,000046,Roxann Jourdan,Yonkers
+47,000047,Zina Secora,Mifflinville
+48,000048,Roger Cumberledge,Turner
+49,000049,Temeka Seary,Cleveland
+50,000050,Winona Graves,Boca Raton
+51,000051,Tomeka Bybee,Tuppers Plains
+52,000052,Willena Supernaw,Little Rock
+53,000053,Randall Biegel,Rouses Point
+54,000054,Zina Pursley,Mobile
+55,000055,Arnita Ciersezwski,Warwick
+56,000056,Jamaal Melugin,Roosevelt
+57,000057,Harris Whaley,Kansas City
+58,000058,Zachariah Moretz,Centerville
+59,000059,Lisbeth Spille,Lovell
+60,000060,Lanell Brumwell,Ticonderoga
+61,000061,Deb Cavicchia,Atlanta
+62,000062,Meda Fragozo,Menifee
+63,000063,Rashida Cockroft,Minneapolis
+64,000064,Anton Schoeppner,Atlanta
+65,000065,Clarice Muskett,Port Trevorton
+66,000066,Cuc Gerstenberger,Omaha
+67,000067,Jacinda Ziemski,Mc Rae
+68,000068,Sherie Riippi,Jonesborough
+69,000069,Penny Laduc,Inver Grove Heights
+70,000070,Desirae Ruz,Wilkes Barre
+71,000071,Winston Heimbigner,Upper Fairmount
+72,000072,Valorie Turrubiates,Blytheville
+73,000073,Vicenta Matey,Evergreen
+74,000074,Victorina Mccally,Omaha
+75,000075,Keva Lavigna,Mullen
+76,000076,Michael Tejera,Merrill
+77,000077,Stephaine Drossos,East Corinth
+78,000078,Suzette Wroblewski,Sioux Falls
+79,000079,Hisako Gallen,Red Banks
+80,000080,Damon Schoeninger,Ponce De Leon
+81,000081,Malena Crites,Renault
+82,000082,Frankie Laferte,Toyahvale
+83,000083,Edwina Fauntleroy,Helena
+84,000084,Elias Terhark,Wilder
+85,000085,Octavio Anders,Wyano
+86,000086,Rob Blakeley,Clear Spring
+87,000087,Gigi Cruthird,Miami
+88,000088,Neil Sick,Cullman
+89,000089,Isis Fernholz,Little Meadows
+90,000090,Jolie Schuman,Correll
+91,000091,Fransisca Zammetti,Marshfield Hills
+92,000092,Keitha Navaro,Honea Path
+93,000093,Marissa Dlugos,Woodburn
+94,000094,Madelyn Hur,Gilberton
+95,000095,Lorilee Cereghino,Bayview
+96,000096,Ella Baillargeon,Atmore
+97,000097,Christa Leske,Rock Tavern
+98,000098,Alona Tagliarini,Springfield
+99,000099,Lanny Tashman,Waynesville
+100,000100,Sabina Shry,Searles
+101,000101,Valarie Segobia,Philadelphia
+102,000102,Jolene Sliffe,Dallas
+103,000103,Chase Kunselman,Plainfield
+104,000104,Yolando Shoulder,Phoenix
+105,000105,Sherrell Manseau,Grantsboro
+106,000106,Lezlie Gribble,Dreyfus
+107,000107,Jocelyn Snare,Stockton
+108,000108,Vanessa Eisen,Ewing
+109,000109,Eddie Schoon,Elberon
+110,000110,Sherise Tuma,Hayward
+111,000111,Britteny Kardos,Fisher
+112,000112,Eden Longstreth,Bowdle
+113,000113,Lavenia Frid,Moline
+114,000114,Jimmy Plakke,Superior
+115,000115,Becky Hoffman,Rehoboth
+116,000116,Odelia Challenger,Fairbanks
+117,000117,Abdul Paskiewicz,Buffalo
+118,000118,Angelic Spratt,Thompson
+119,000119,Marlena Dydell,Warners
+120,000120,Aracelis Gaultney,Wright City
+121,000121,Tom Srour,El Paso
+122,000122,Alexis Choinski,Lake Alfred
+123,000123,Candie Melnyk,Hartman
+124,000124,Carleen Odums,Greenway
+125,000125,Natacha Enfield,Smithsburg
+126,000126,Cleveland Mccahill,Los Angeles
+127,000127,Kent Heidinger,Dearborn
+128,000128,Liza Marceau,Cherokee
+129,000129,Kim Wilson,Tampa
+130,000130,William Markakis,Trotters
+131,000131,Joselyn Hawthorne,Morristown
+132,000132,Josphine Kempf,Fort Worth
+133,000133,Porter Saetteurn,Tyrone
+134,000134,Lashawn Lifshitz,New Munster
+135,000135,Deshawn Halon,Corning
+136,000136,Lorilee Haigh,Marana
+137,000137,Ellen Parente,Wrightwood
+138,000138,Deloris Mcannally,Milwaukee
+139,000139,Joe Candia,Locust Hill
+140,000140,Karey Berna,Casanova
+141,000141,Albina Quillin,Westland
+142,000142,Daina Bettenhausen,Worthville
+143,000143,Ursula Loyal,Rosedale
+144,000144,Collen Freudiger,Montrose
+145,000145,Rhona Beurskens,Kansas City
+146,000146,Nicky Filary,Steele
+147,000147,Sherika Gosset,Blanchardville
+148,000148,Glennie Obi,Morton
+149,000149,Taylor Thimmes,Tehachapi
+150,000150,Yessenia Paplow,Saylorsburg
+151,000151,Dotty Malanga,Alto
+152,000152,Glennie Whidby,Big Island
+153,000153,Shaunna Ceasar,Hawley
+154,000154,Laverne Clutter,Des Moines
+155,000155,Janay Gale,Cawker City
+156,000156,Martina Prieur,New Florence
+157,000157,Tosha Kalsow,Newark
+158,000158,Meggan Rabey,Kirkwood
+159,000159,Mariella Ploense,Crawfordsville
+160,000160,Charlsie Hesselrode,New Waterford
+161,000161,Billy Sisemore,Rural Retreat
+162,000162,Brittni Hefty,Madison
+163,000163,Malena Deremer,Rock Springs
+164,000164,Shannan Mahung,Danville
+165,000165,Akilah Struckman,Bieber
+166,000166,Leonor Stammer,Big Spring
+167,000167,Lanie Prosper,Sigel
+168,000168,Wes Maravilla,Dassel
+169,000169,Lourie Speck,Cleveland
+170,000170,Mirella Doroski,Meredith
+171,000171,Russ Boulos,Orlando
+172,000172,Stevie Naidoo,Amarillo
+173,000173,Bud Cropley,Ringsted
+174,000174,Marquita Chatriand,Ames
+175,000175,Shana Jelley,Kokomo
+176,000176,Shalon Zets,Erick
+177,000177,Charity Vondran,Morse Bluff
+178,000178,Lorilee Ahsing,Garrard
+179,000179,Jamika Rachi,Pandora
+180,000180,Enrique Wolvin,Athens
+181,000181,Lynette Halgas,Erie
+182,000182,Chanell Hickox,Long Beach
+183,000183,Cameron Hepper,San Isidro
+184,000184,Jenna Redel,Lapel
+185,000185,Zachary Bollman,Waverly Hall
+186,000186,Herminia Boesenhofer,Eastman
+187,000187,Ivonne Giulioli,Orange City
+188,000188,Roy Conquest,Coatesville
+189,000189,Nereida Sirman,Buffalo
+190,000190,Junie Luepke,Keyes
+191,000191,Elisabeth Eisentrout,Chillicothe
+192,000192,Donnette Emmette,Cragsmoor
+193,000193,Meri Darwish,Vashon
+194,000194,Efrain Pinckard,Marion Center
+195,000195,Mindy Garnier,Milan
+196,000196,Daina Arquelles,Deerfield
+197,000197,Christina Battles,Valley Park
+198,000198,Robby Caples,Monticello
+199,000199,Layne Flurry,Big Spring
+200,000200,Kimber Demel,Boston
+201,000201,Sigrid Hricko,Sundown
+202,000202,Yuk Facteau,Fremont
+203,000203,Margit Baddour,Indianapolis
+204,000204,Filiberto Machle,Independence
+205,000205,Kenna Buckelew,Hill City
+206,000206,Nancie Belnap,Homestead
+207,000207,Hsiu Spika,Moorhead
+208,000208,Tisa Pettner,Schenectady
+209,000209,Jamal Stefanski,West Alton
+210,000210,Senaida Honchul,Ancramdale
+211,000211,Audrie Warchal,Riverdale
+212,000212,Barrie Petway,Rockport
+213,000213,So Velega,Madrid
+214,000214,Sharlene Loreg,Ranger
+215,000215,Blythe Seelbach,Fall City
+216,000216,Glynis Falzarano,Leesport
+217,000217,Antonio Malinski,Honolulu
+218,000218,Jolyn Ohrt,Charlotte
+219,000219,Yasmin Troester,Wrenshall
+220,000220,Marivel Spiess,Mount Royal
+221,000221,Jona Shoulars,Birchrunville
+222,000222,Layla Suther,Chester
+223,000223,Lourdes Ottoson,Montgomery
+224,000224,Tish Moler,Elwood
+225,000225,Jacinta Machan,North Chicago
+226,000226,Emilie Kiesz,Austin
+227,000227,Dia Grueser,Ivel
+228,000228,Audrea Staats,Independence
+229,000229,Sharice Baumgarner,Conroe
+230,000230,Jonna Loggin,Pompano Beach
+231,000231,Tula Lotts,Crowell
+232,000232,Fabian Barthe,Basco
+233,000233,Valencia Lambing,Northampton
+234,000234,Kam Rosebush,Cincinnati
+235,000235,Malvina Lokhmator,Hamilton
+236,000236,Lane Bergman,Groesbeck
+237,000237,Chas Hof,Port Charlotte
+238,000238,Bethany Sasala,Dallas
+239,000239,Zona Healan,Peralta
+240,000240,Suanne Flies,Prosser
+241,000241,Aleida Biby,Spencer
+242,000242,Broderick Toldness,Swanzey
+243,000243,Mary Zielonka,Ester
+244,000244,Charity Diani,Bryant
+245,000245,Mozell Bicket,Middletown
+246,000246,Monty Segalla,Hancock
+247,000247,Blair Bitton,Lyon
+248,000248,Marlin Bainey,Keauhou
+249,000249,Earleen Zenbaver,Speedwell
+250,000250,Chantal Unglesbee,Node
+251,000251,Julieta Ludy,Braman
+252,000252,Timika Atanacio,Etna Green
+253,000253,Christie Holquin,Salem
+254,000254,Cristin Whary,Oro Grande
+255,000255,Annamaria Kuhnel,Manitou
+256,000256,Laverne Besa,Boise
+257,000257,Stephan David,Wedgefield
+258,000258,Macy Terrasas,Highland Lake
+259,000259,Clotilde Higa,Quicksburg
+260,000260,Carley Sweets,Coal City
+261,000261,Ranee Gehri,Ripon
+262,000262,Sylvie Schoeffler,Albany
+263,000263,Veta Garon,Cedar Hill
+264,000264,Orville Ossman,San Luis Obispo
+265,000265,Cherilyn Dallesandro,Victor
+266,000266,Christeen Mattingley,Deland
+267,000267,Jeffery Shampine,Oconomowoc
+268,000268,Sadye Amarian,Newton
+269,000269,Maple Bartelson,New Hyde Park
+270,000270,Lily Vanvorst,Oceola
+271,000271,Jerilyn Hiemer,Fairfield
+272,000272,Aline Linhardt,Trion
+273,000273,Sana Feldker,Chamisal
+274,000274,Maura Jendrick,Nichols
+275,000275,Julietta Verbilla,Cashtown
+276,000276,Krishna Amodei,Bristow
+277,000277,Molly Mcgreal,Gardena
+278,000278,Maryjo Wieber,New Orleans
+279,000279,Yan Borello,Sun River
+280,000280,Cecila Koening,Rampart
+281,000281,Karine Garrow,Lyons
+282,000282,Hang Statires,Honolulu
+283,000283,Ron Gagan,Silverthorne
+284,000284,Olen Eugenio,Queen City
+285,000285,Janee Fertik,Little River
+286,000286,Moriah Mitman,Washington
+287,000287,Jenise Proffer,Cincinnati
+288,000288,Stasia Vise,Robbins
+289,000289,Pearl Gancio,Diamond
+290,000290,Jessie Koener,Waverly
+291,000291,Roman Denoble,Miami
+292,000292,Charity Scarola,Covel
+293,000293,Kimberely Bogosh,Cheshire
+294,000294,Walker Hourihan,Carpinteria
+295,000295,Mallory Stinebuck,Nashville
+296,000296,Dario Callicoat,Little Orleans
+297,000297,Lesley Ebilane,Hartford
+298,000298,Bernadine Dehaney,Randle
+299,000299,Rubye Vacarro,
+300,000300,Isaac Riley,Atlanta
+301,000301,Florencio Dietrick,West Linn
+302,000302,Jeanene Nuzum,Byers
+303,000303,Matthew Knudsuig,Reedsville
+304,000304,Larue Embery,Rosemead
+305,000305,Elenor Amons,De Lancey
+306,000306,Corie Lanasa,Cumming
+307,000307,Estelle Naclerio,Johnson City
+308,000308,Latoria Sadan,Whitharral
+309,000309,Karren Oktavec,Marianna
+310,000310,China Browne,Milwaukee
+311,000311,Mark Merten,Coeur D Alene
+312,000312,Allyson Feddes,Irving
+313,000313,Gaynelle Carran,Tolleson
+314,000314,Marshall Schamberger,Tunnelton
+315,000315,Levi Granthan,Harrisburg
+316,000316,Nan Cunninghan,Amity
+317,000317,Deanna Montemarano,Manomet
+318,000318,Shayne Feehly,Canton
+319,000319,Shasta Shawgo,Tampa
+320,000320,Marcus Fallenstein,Polacca
+321,000321,Erlinda Wember,San Francisco
+322,000322,Beverly Geary,Keithville
+323,000323,Rene Bakey,Oklahoma City
+324,000324,Tameka Debem,Bruni
+325,000325,Selma Newburg,Portsmouth
+326,000326,Nichol Steeves,Baton Rouge
+327,000327,Grayce Tiberio,Sainte Genevieve
+328,000328,Leola Balboni,Montreat
+329,000329,Marlyn Chipps,State Center
+330,000330,Tyra Bakemeier,Burwell
+331,000331,Allena Matava,Liberal
+332,000332,Oma Konopka,Post Falls
+333,000333,Reid Mcdearmon,Mina
+334,000334,Reed Stakelin,Gouldbusk
+335,000335,Krystal Mendibles,Buckingham
+336,000336,Zetta Brignoni,Denver
+337,000337,Joelle Visitacion,Melbourne
+338,000338,Cythia Nealis,Rutherford
+339,000339,Josphine Domenech,Guilford
+340,000340,Leo Goller,Penfield
+341,000341,Dorothy Tillberry,Roanoke
+342,000342,Reginia Kolin,Cost
+343,000343,Nellie Dunemann,Beaverdale
+344,000344,Della Calvan,Troy
+345,000345,Donn Bjerk,Kaysville
+346,000346,Leif Barbiere,Three Mile Bay
+347,000347,Samira Piceno,Sacramento
+348,000348,Mozella Lakowski,Tucson
+349,000349,Judy Helley,Rimersburg
+350,000350,Emery Oropeza,Hickory
+351,000351,Robert Urquijo,Phoenix
+352,000352,Vida Room,Federalsburg
+353,000353,Dustin Hammersley,Kincaid
+354,000354,Sharon Ballin,Camp Meeker
+355,000355,Fannie Gourdine,Medford
+356,000356,Ella Galapon,Cumberland
+357,000357,Jody Dioneff,Pittsville
+358,000358,Velia Shigemitsu,Dyersville
+359,000359,Felecia Mckelvey,Stem
+360,000360,Quiana Schendel,Casa Blanca
+361,000361,Brande Tajima,Harbor Beach
+362,000362,Buddy Guadalupe,Avon
+363,000363,Afton Dagle,Henry
+364,000364,Clarissa Zahar,Ozone
+365,000365,Clotilde Bussard,Arlington
+366,000366,Laquita Edelson,West Chesterfield
+367,000367,Romeo Mutton,South Gibson
+368,000368,Kristyn Muscatello,Loretto
+369,000369,Carmen Getchius,Naruna
+370,000370,Antonetta Tapscott,Portland
+371,000371,Chandra Mootz,North Richland Hills
+372,000372,Mose Puna,Arapahoe
+373,000373,Hallie Marante,Pleasant Mount
+374,000374,Aldo Hele,Portsmouth
+375,000375,Lessie Norum,Elizabethtown
+376,000376,Vernon Modest,Harwood
+377,000377,Virgil Algarin,Charlotte
+378,000378,Elmer Lokaphone,Wilmington
+379,000379,Marc Mcgauley,San Diego
+380,000380,Delpha Cookus,Damon
+381,000381,Mayra Niau,Shepherdstown
+382,000382,Annette Holien,Poy Sippi
+383,000383,Geri Heying,Tyndall
+384,000384,Mike Messinger,Bellevue
+385,000385,Ocie Slipper,Slidell
+386,000386,Delaine Ruden,Woodman
+387,000387,Valeria Haxton,Chesapeake
+388,000388,Marge Carwile,Madera
+389,000389,Roxann Cuccaro,Glen Rose
+390,000390,Junie Muray,Croton
+391,000391,Georgiana Woytowicz,Columbia
+392,000392,Kenny Hisey,Ione
+393,000393,Leatha Podesta,Nisland
+394,000394,Janna Sakata,Hilger
+395,000395,Miki Kiesser,Birmingham
+396,000396,Zelda Botha,Sumrall
+397,000397,Juliann Hufford,Bandera
+398,000398,Cole Nola,Wilder
+399,000399,Sanora Ozminkowski,West Columbia
+400,000400,Esteban Urtado,Morganfield
+401,000401,Eliseo Ruscitti,Weston
+402,000402,Portia Grenway,Silverton
+403,000403,Libby Holleran,New Castle
+404,000404,Allene Kochheiser,West Liberty
+405,000405,Jess Mcmillon,West Bloomfield
+406,000406,Josephine Hannen,Lake Park
+407,000407,Fidelia Marrion,Letter Gap
+408,000408,Robbie Kauffeld,Washington
+409,000409,Annett Bliese,Bruno
+410,000410,Ai Leffel,Tucson
+411,000411,Devin Spratt,Maggie Valley
+412,000412,Cherelle Bettle,Derry
+413,000413,Camie Tamiya,Colusa
+414,000414,Blaine Mrowka,New London
+415,000415,Carol Gelder,Crater Lake
+416,000416,Loan Greuel,Novinger
+417,000417,Hallie Kilcrease,Mountain Pass
+418,000418,Mitch Peifer,Ashwood
+419,000419,Xochitl Maland,Salt Lake City
+420,000420,Vonnie Landborg,Detroit
+421,000421,Andree Colcher,Fresno
+422,000422,Cinthia Kiecker,Graysville
+423,000423,Jonell Cederberg,Garrison
+424,000424,Mel Summars,Atlanta
+425,000425,Abbey Wenke,Aurora
+426,000426,Mignon Christello,Pray
+427,000427,Elva Hupy,Greenville
+428,000428,Alvera Hollenbach,East Hartford
+429,000429,Kimberly Welk,Philadelphia
+430,000430,Gaye Salsman,Bakerton
+431,000431,Eliza Sourlis,Nacogdoches
+432,000432,Robin Boudreaux,Ivoryton
+433,000433,Oralia Mattix,Moraga
+434,000434,Beatris Kinloch,Foxworth
+435,000435,Jeanie Farfan,Vintondale
+436,000436,Sharyn Hamid,Joseph
+437,000437,Felicia Hasler,Groveport
+438,000438,Christena Leuthauser,Bismarck
+439,000439,Dorie Mcmahen,Boggs
+440,000440,Chi Manseau,Clifton Heights
+441,000441,Rolanda Ginsburg,Warm Springs
+442,000442,Camille Welte,Woburn
+443,000443,Pasty Swoboda,Bozman
+444,000444,Melany Pistole,Lebanon
+445,000445,Kaitlin Teteak,Raleigh
+446,000446,Hien Ibsen,Modesto
+447,000447,Julian Lieto,Los Lunas
+448,000448,Mika Lindsley,Freeport
+449,000449,Isaac Gainey,Melbourne
+450,000450,Janet Michocki,West Chesterfield
+451,000451,Beckie Sprenger,Ottawa
+452,000452,Salvatore Duchane,Cumberland
+453,000453,Kami Roys,Greenville
+454,000454,Bryon Kos,Watson
+455,000455,Marcell Yampolsky,Fall Branch
+456,000456,Cherlyn Schwemmer,Jeffersonville
+457,000457,Everett Nwankwo,Glendale
+458,000458,Patrick Cutten,Omar
+459,000459,Catherina Waldecker,Bergen
+460,000460,Caprice Ingersol,Aspen
+461,000461,Elise Yunk,Rosebush
+462,000462,Mercedez Higaneda,Harrisburg
+463,000463,Jon Coponen,Gardner
+464,000464,Hyacinth Bishoff,Syracuse
+465,000465,Marian Missildine,Shreveport
+466,000466,Jana Seefeldt,Bridgeland
+467,000467,Jacinta Akers,Tupelo
+468,000468,Rossana Cosentino,Blandinsville
+469,000469,Shannan Wojtkowski,Burleson
+470,000470,Alexander Jimison,Maybrook
+471,000471,Mandy Poduska,Tampa
+472,000472,Laveta Doran,Millers
+473,000473,Marin Rokicki,Hartman
+474,000474,Edgar Flatness,North Little Rock
+475,000475,Kristie Burgie,Lynchburg
+476,000476,Lakisha Rummel,Wapanucka
+477,000477,Joaquin Strobel,Sparks
+478,000478,Tyler Whichard,Dallas
+479,000479,Kendall Kinsland,Lankin
+480,000480,Milton Gali,Rock
+481,000481,Joann Jeffreys,Scarborough
+482,000482,Emmy Tadiello,Langhorne
+483,000483,Cleta Oakley,Atlanta
+484,000484,Kiersten Basaldua,Byromville
+485,000485,Floria Shahbaz,Saltsburg
+486,000486,Gussie Bartelson,Salisbury
+487,000487,Lyda Pousson,Everglades City
+488,000488,Suellen Wisenor,Portland
+489,000489,Abbie Forlivio,Hampton
+490,000490,Clarence Mcdugle,Athol
+491,000491,Eldon Luquette,Grifton
+492,000492,Wesley Lampkin,Green Bay
+493,000493,Laurine Winkeljohn,Pelzer
+494,000494,Zetta Kolnik,Coal City
+495,000495,Shyla Willington,Kootenai
+496,000496,Blondell Fujita,Parrott
+497,000497,Buffy Wobbe,Simonton
+498,000498,Retta Poppert,Panama City
+499,000499,Soledad Villella,Cherokee
+500,000500,Luisa Birenbaum,Boswell
+501,000501,Viki Tajiri,Yerington
+502,000502,Lala Ziak,Oakland
+503,000503,Florinda Nulty,Cedar Park
+504,000504,Billy Nagel,Zionsville
+505,000505,Elton Booras,Haigler
+506,000506,Danae Lybert,Hermosa Beach
+507,000507,Marco Bellfleur,Lincoln
+508,000508,Issac Kovacic,Yorktown
+509,000509,Evangeline Schack,Hendricks
+510,000510,Aimee Yielding,Athens
+511,000511,Tish Cooney,Milford
+512,000512,Mayra Querta,Carefree
+513,000513,Simone Troxler,Temecula
+514,000514,Contessa Ledden,Saint Paul
+515,000515,Shantell Staadt,Spokane
+516,000516,Ollie Battani,Wakefield
+517,000517,Laquita Hersh,Falls Church
+518,000518,Lenny Sorman,Polk
+519,000519,Sam Lavant,Fort Plain
+520,000520,Luvenia Blackington,Dupont
+521,000521,Marget Thornquist,Chadbourn
+522,000522,Madison Geister,Garner
+523,000523,Norine Biondolillo,Brush Prairie
+524,000524,Kasi Quiroga,Hamilton
+525,000525,Oliva Braskett,Jackson
+526,000526,Sean Chapelle,Nipomo
+527,000527,Ward Julye,Dallas
+528,000528,Mertie Oldakowski,Burlington Flats
+529,000529,Kaye Kesling,Whalan
+530,000530,Barton Fechtig,Laneville
+531,000531,Elina Brailsford,Hebron
+532,000532,Neta Wigren,Bristol
+533,000533,Annemarie Ginsky,Triplett
+534,000534,Sara Tone,Ephraim
+535,000535,Jarod Hirleman,Cranston
+536,000536,Carin Kimbler,Gladys
+537,000537,Shayne Pagaduan,Tynan
+538,000538,Stormy Barmore,Hollytree
+539,000539,Emerson Gatza,Louisville
+540,000540,Alaina Giasson,Shepherd
+541,000541,Jeannine Raimer,New Sharon
+542,000542,Kasha Elsworth,Reasnor
+543,000543,Marlyn Dubuisson,Amlin
+544,000544,Kathyrn Clive,Palestine
+545,000545,Misha Rudack,Wilmington
+546,000546,Olevia Weisbrod,San Diego
+547,000547,Gaynelle Vote,Green Lake
+548,000548,Kendall Schreurs,Dallas
+549,000549,Anh Oberlies,Blakes
+550,000550,Sharan Fusco,Vanndale
+551,000551,Bruce Ludovico,Ragley
+552,000552,Eun Panias,Wichita Falls
+553,000553,Hobert Mccant,Midpines
+554,000554,Charles Spahr,Sodus
+555,000555,Albertine Devito,West Palm Beach
+556,000556,Belia Vorholt,Shoreham
+557,000557,Corrinne Machan,Monticello
+558,000558,Apolonia Conaty,Van Buren
+559,000559,Roselyn Cubr,Carlisle
+560,000560,Debroah Barrilleaux,Kane
+561,000561,Elwanda Reller,Boyers
+562,000562,Angelia Wozniak,Notus
+563,000563,Lucy Bechtold,Mineral Point
+564,000564,Jude Notis,New Harmony
+565,000565,Rebecca Vizzini,Bloomington
+566,000566,Cinderella Antista,East Bloomfield
+567,000567,Dara Kinnier,Gilbert
+568,000568,Alita Fanner,Atkinson
+569,000569,Tiesha Ballensky,Thousand Oaks
+570,000570,Miyoko Raffield,Oklahoma City
+571,000571,Luana Rastelli,Cleburne
+572,000572,Nichol Trentz,Gassville
+573,000573,Daina Reynero,Shelburne
+574,000574,Gidget Cilano,Allen Park
+575,000575,Marg Yeates,Rockville Centre
+576,000576,Shannan Igus,Salt Lake City
+577,000577,Ruthanne Gurne,Pedro Bay
+578,000578,Gertrude Heatwole,Avalon
+579,000579,Chan Maye,Crawfordsville
+580,000580,Dorinda Coyle,Kingston
+581,000581,Eneida Penird,Mount Perry
+582,000582,Ernestine Pigna,Saint Louis
+583,000583,Samella Vanheel,Centerville
+584,000584,Patricia Boness,Hazelwood
+585,000585,Deedee Vaugh,New Hampton
+586,000586,Amelia Ninos,Big Wells
+587,000587,Carlena Spilker,Dallas
+588,000588,Yu Mcphaul,Stoy
+589,000589,Lindsy Prazenica,Bristol
+590,000590,Marcie Holzwart,Houma
+591,000591,Katia Gorz,Red Rock
+592,000592,Josie Plemons,Side Lake
+593,000593,Julian Ljungquist,Louisville
+594,000594,Quinn Notice,Miramar Beach
+595,000595,Rafael Neighbours,Sterling
+596,000596,Jamila Brining,Walkerton
+597,000597,Usha Schiavone,Carville
+598,000598,Cherrie Casali,Hunt
+599,000599,Iraida Arehano,Providence
+600,000600,Latashia Calle,Zalma
+601,000601,Shaunda Zahniser,Quinby
+602,000602,Kendra Vil,Cedar City
+603,000603,Ola Rataczak,New Tripoli
+604,000604,Misha Sinistore,Cincinnati
+605,000605,Vena Genz,Strafford
+606,000606,Mirna Okoren,Huntington
+607,000607,Cyrstal Lansang,North Buena Vista
+608,000608,Lyle Campo,Jackson
+609,000609,Stephane Liddicoat,Tustin
+610,000610,Eilene Slyton,Strabane
+611,000611,Tamela Heidebrecht,West Poland
+612,000612,Bud Yacano,Hazel Green
+613,000613,Mildred Pastora,Fort Worth
+614,000614,Rosalinda Fragozo,Buckingham
+615,000615,Lauryn Motten,Des Moines
+616,000616,Neida Garroutte,Iuka
+617,000617,Mariann Mandoza,Greer
+618,000618,Cameron Walshe,Cocoa
+619,000619,Shayna Sidur,Mc Call Creek
+620,000620,Dave Kutscher,Mansfield
+621,000621,Genesis Freeman,Clear Creek
+622,000622,Matilde Breiter,Ogdensburg
+623,000623,Jung Berndsen,Ernest
+624,000624,Arianna Holzem,Washington
+625,000625,Ralph Heye,Bloomfield
+626,000626,Annika Grable,Courtland
+627,000627,Roxanna Tomer,Guide Rock
+628,000628,Arnoldo Imhof,Mcnary
+629,000629,Martin Rasco,Sunnyvale
+630,000630,Val Kiesling,Sargent
+631,000631,Kandace Malekan,Phoenix
+632,000632,Tandy Quirin,Sandy Hook
+633,000633,Norbert Gemmen,Vashon
+634,000634,Cordell Woodworth,Fairfield
+635,000635,Faye Lacount,Atglen
+636,000636,Danyelle Perrett,Whitney
+637,000637,Josefina Hatcherson,Buffalo
+638,000638,Willis Pfuhl,Lowell
+639,000639,Leigh Cleavenger,Hope Mills
+640,000640,Nathanael Rodrigue,Greer
+641,000641,Junie Creegan,Fleming
+642,000642,Guadalupe Haylock,Sacramento
+643,000643,Roscoe Demaree,Richmond
+644,000644,Philip Decaire,Elmira
+645,000645,Lianne Bueno,Seabrook
+646,000646,Rosalba Swarn,Stuart
+647,000647,Alina Werle,Houston
+648,000648,Elisha Brighton,Wetmore
+649,000649,Jeri Raulerson,Queenstown
+650,000650,Raymond Montoney,New Haven
+651,000651,Tierra Norse,Hermleigh
+652,000652,Tracie Fradkin,Saint Johnsbury
+653,000653,Bonnie Gudgell,Union City
+654,000654,Brenda Asbury,Marshfield
+655,000655,Mirella Lando,Salt Lake City
+656,000656,Minh Achenbach,Goshen
+657,000657,Cary Brog,Duluth
+658,000658,Thi Olvera,Westboro
+659,000659,Karolyn Arney,San Rafael
+660,000660,Elsie Carbonell,Rock Island
+661,000661,Esta Petruska,Marrero
+662,000662,Dalene Gustason,Dearing
+663,000663,Danica Biancuzzo,Modoc
+664,000664,Renaldo Truner,Milton
+665,000665,Lenore Brunell,Hazlet
+666,000666,Cherryl Kukla,Matherville
+667,000667,Tuyet Nesheim,Audubon
+668,000668,Estell Mollere,South Lake Tahoe
+669,000669,Paz Prach,Huntsville
+670,000670,Lemuel Morandi,Jacks Creek
+671,000671,Nancee Bajwa,Dearborn
+672,000672,Tamala Spartin,Lithia Springs
+673,000673,Yen Purswell,Whites Creek
+674,000674,Shavonne Languirand,Fairland
+675,000675,Sammie Vanderhoff,Chittenango
+676,000676,Charlott Angilello,Milton Mills
+677,000677,Gino Phomphithak,Fennimore
+678,000678,Cyrus Baba,Bowbells
+679,000679,Elsy Scavetta,San Anselmo
+680,000680,Ceola Spurgeon,Mineral
+681,000681,Elna Grboyan,Cleveland
+682,000682,Eleonora Goolman,Streetman
+683,000683,Issac Jone,Mesa
+684,000684,Irvin Samiec,Shawnee Mission
+685,000685,Tammara Whyel,Hazel Park
+686,000686,Tresa Richards,Bowling Green
+687,000687,Danette Rapanot,Kansas City
+688,000688,Verla Cocking,Falls
+689,000689,Deshawn Minniear,Kistler
+690,000690,Angelic Kuhre,Wayland
+691,000691,Karie Vian,Barre
+692,000692,Crissy Curz,Vidor
+693,000693,Clarice Stofflet,Ocean City
+694,000694,Dean Malory,Yutan
+695,000695,Hilma Stallcup,Lydia
+696,000696,Felicidad Egnew,Peshtigo
+697,000697,Aleida Thoene,Falmouth
+698,000698,Nadine Kelchner,Port Heiden
+699,000699,Carolin Heimerdinger,Rayle
+700,000700,Maximina Stoops,Honokaa
+701,000701,Zackary Denna,Emington
+702,000702,Kareem Spriggle,Clay City
+703,000703,Eden Mirabile,Saginaw
+704,000704,Vonda Luskin,San Francisco
+705,000705,Delphine Moomaw,Kansas City
+706,000706,Meghann Goodheart,Shoshoni
+707,000707,Skye Catherson,Ridgeway
+708,000708,Lise Sovereign,Monroe
+709,000709,Ethelene Alterio,Glenwood
+710,000710,Aurore Aughe,Seney
+711,000711,Andre Champman,Hartford
+712,000712,Rana Magnanti,Turney
+713,000713,Adella Fraile,Mechanicsburg
+714,000714,Lidia Montan,Beggs
+715,000715,Barrett Perina,Grand Rapids
+716,000716,Michal Brogdon,Littleton
+717,000717,Dinorah Halima,Dublin
+718,000718,Roxana Snorden,Lawrenceville
+719,000719,Sanora Mcchristian,Bellmont
+720,000720,Felix Gerloff,Marcus
+721,000721,Chuck Fenimore,West Coxsackie
+722,000722,Napoleon Stifter,Chelsea
+723,000723,Billy Bowyer,Fairfax
+724,000724,Carlena Szczepkowski,Franklinville
+725,000725,Ena Przybylski,Mountain View
+726,000726,Rayford Cacciotti,Becker
+727,000727,Augustine Kovacs,Corpus Christi
+728,000728,Crysta Albin,Tustin
+729,000729,Leia Kakudji,Phoenix
+730,000730,Alida Mcnamara,Linden
+731,000731,Miriam Boid,Atkinson
+732,000732,Santos Shemanski,Richmond
+733,000733,Briana Andruzzi,West Jefferson
+734,000734,Stacey Shill,Reston
+735,000735,Kaylee Deshpande,Drifting
+736,000736,Johnie Chrisco,Newark
+737,000737,Audrey Bunal,Lakewood
+738,000738,Annabell Rostek,Arkansas City
+739,000739,Sheba Harlowe,Mc Bee
+740,000740,Reynalda Olivid,Earth City
+741,000741,Shakira Brintnall,Hidalgo
+742,000742,Kena Pack,Callahan
+743,000743,Maris Mostiller,Fairchild
+744,000744,Basil Kochert,Stafford
+745,000745,Cherilyn Dawkin,Houston
+746,000746,Boyd Amel,Nashville
+747,000747,Elisabeth Delpit,Putney
+748,000748,Basilia Kavanagh,Dixon
+749,000749,Bonita Buckel,Brush Prairie
+750,000750,Rosia Dicharry,South Pittsburg
+751,000751,Sima Mayenschein,Friendsville
+752,000752,Miquel Gurrero,Marion
+753,000753,Jen Marade,Medicine Lodge
+754,000754,Janyce Milleson,Stone Mountain
+755,000755,Moriah Arif,Germanton
+756,000756,Bunny Murchison,Paterson
+757,000757,Tom Lolley,Eagle
+758,000758,Haywood Roubekas,Philadelphia
+759,000759,Candis Pierro,Forsyth
+760,000760,Georgette Mittelstedt,Carrollton
+761,000761,James Ollivierre,Alma
+762,000762,India Storm,Piscataway
+763,000763,Hans Hocke,Dabolt
+764,000764,Kenny Schur,Windham
+765,000765,Thora Dembosky,Detroit
+766,000766,Drew Lynady,Waco
+767,000767,Desiree Metzinger,Grass Valley
+768,000768,Francoise Saicedo,Summit
+769,000769,Zita Kamada,Muse
+770,000770,Sidney Washurn,Hartley
+771,000771,Dana Backhaus,Emporia
+772,000772,Barbera Krajnovich,Lincoln
+773,000773,Romana Hoston,New Orleans
+774,000774,Ronni Teigen,Rossville
+775,000775,Chantay Ahal,Myra
+776,000776,Nadia Guiga,New Canton
+777,000777,Marquitta Bakula,Wakefield
+778,000778,Aletha Neske,Orla
+779,000779,Chin Morrisette,Bradley
+780,000780,Josphine Viel,Fayetteville
+781,000781,Marvel Fergurson,Fish Camp
+782,000782,Kiley Dedeaux,Lowake
+783,000783,Erich Blush,Waverly
+784,000784,Jarred Inacio,Boise
+785,000785,Kassandra Hecht,Anthony
+786,000786,Jamie Hoyland,Fort Lauderdale
+787,000787,Thi Bradicich,Indian Trail
+788,000788,Risa Bossie,Oklahoma City
+789,000789,Shenita Wikoff,Utica
+790,000790,Roxana Handren,Marengo
+791,000791,Davina Schiltz,Hamden
+792,000792,Ezra Petaccio,Raiford
+793,000793,Ferdinand Blizard,Calumet
+794,000794,James Worner,Lees Summit
+795,000795,Cortez Lightcap,Augusta
+796,000796,James Zutter,Reydell
+797,000797,Leigha Ossman,Skellytown
+798,000798,Elisabeth Huitt,Gore
+799,000799,Elana Hyde,Albany
+800,000800,Adrian Hise,Ada
+801,000801,Lynelle Doney,Los Angeles
+802,000802,Britni Sunderman,Bart
+803,000803,Adrienne Hobbins,Rocky Hill
+804,000804,Natasha Frazee,Oceano
+805,000805,Elsy Molin,Pitman
+806,000806,Michael Tierno,Thomaston
+807,000807,Haydee Jaffray,Wyoming
+808,000808,Margarete Clemmer,Newburg
+809,000809,Yael Bickelhaupt,Seguin
+810,000810,Elouise Rewerts,Brookton
+811,000811,Elana Bergesen,Maplewood
+812,000812,Winter Milovich,Drennen
+813,000813,Shavonne Maccarter,Norwalk
+814,000814,Lisha Aadland,Roanoke
+815,000815,Tawna Ingalls,Saybrook
+816,000816,Jacinto Alexopoulos,East Waterboro
+817,000817,Keturah Alar,Akron
+818,000818,Paul Mobus,Sassamansville
+819,000819,Dirk Hanshaw,Caldwell
+820,000820,Joan Saether,German Valley
+821,000821,Rosanne Capece,Martin
+822,000822,Mindi Whitecotton,Kalida
+823,000823,Nadene Hackleman,Sandstone
+824,000824,Andres Otex,Ames
+825,000825,Guillermina Pesiri,Salt Lake City
+826,000826,Leonora Speagle,Centre
+827,000827,Sammie Daso,Mariposa
+828,000828,Nelda Santulli,Napoleonville
+829,000829,Bernetta Orozco,Frederick
+830,000830,Barton Steidl,Standish
+831,000831,Helaine Rivadeneira,Randall
+832,000832,Stan Wigglesworth,Hot Springs
+833,000833,Shad Leaf,Hinton
+834,000834,Colin Brome,Trinchera
+835,000835,Normand Dockins,Lacey
+836,000836,Donya Hurlbert,Rosebud
+837,000837,Emmy Apa,Houston
+838,000838,Corie Benejan,Franklinville
+839,000839,Leonarda Burdeshaw,University Park
+840,000840,Mable Kukowski,Macfarlan
+841,000841,Agnus Demoss,Lake Orion
+842,000842,Gertha Frandeen,Ozawkie
+843,000843,Antionette Barimah,Beaver
+844,000844,Renay Roney,Saint Mary Of The Woods
+845,000845,Felton Okeeffe,Fort Sheridan
+846,000846,Lamonica Debski,Vandiver
+847,000847,Tiera Winiecki,Manitou
+848,000848,Trish Wierenga,Dawmont
+849,000849,Patrica Patriss,New York City
+850,000850,Cleopatra Kiah,Pasadena
+851,000851,Cecily Pifer,Lumpkin
+852,000852,Latrisha Arnesen,Shawnee Mission
+853,000853,Pauletta Bierce,Harrison City
+854,000854,Evan Tyrrell,War
+855,000855,Mellisa Islas,Harwood
+856,000856,Lanny Erway,Dallas
+857,000857,Agueda Murasso,Wolftown
+858,000858,Enriqueta Cowin,Kansas City
+859,000859,Eva Yurek,Flint
+860,000860,Sheryl Woollen,Ravalli
+861,000861,Yesenia Asbridge,Dover
+862,000862,Treva Marcial,Karnack
+863,000863,Celestine Rositano,Idaho Falls
+864,000864,Ludivina Valdo,Lake Benton
+865,000865,Joyce Supplice,East Carbon
+866,000866,Freeda Reindl,South Windham
+867,000867,Kurtis Nawda,Currie
+868,000868,Basilia Lorincz,Halsey
+869,000869,Dylan Stricklan,Fort Loramie
+870,000870,Seema Engelberg,Hickory
+871,000871,Vicki Heitz,Wilmont
+872,000872,Trinh Wauer,Taswell
+873,000873,Zada Lardieri,Martel
+874,000874,Jolyn Andersen,Redlands
+875,000875,Emmaline Isales,Sebasco Estates
+876,000876,Suzan Hanzl,Buchanan
+877,000877,Armanda Nickas,Sherrard
+878,000878,Beatriz Casacchia,Hamlin
+879,000879,Jenny Buzzanca,Austin
+880,000880,Randell Ihrig,Englewood
+881,000881,Kasha Zink,Whitewater
+882,000882,Melissia Gregston,Maskell
+883,000883,Elwanda Woznicki,Platter
+884,000884,Sherryl Emerick,Wapella
+885,000885,Johnathan Brobeck,Mount Laguna
+886,000886,Audra Berends,Charlotte
+887,000887,Terisa Delaney,Milroy
+888,000888,Marcelino Budke,Fruitland
+889,000889,Willie Dinkins,Bellville
+890,000890,Nedra Pfeiff,Bowling Green
+891,000891,Elvina Aningalan,Deep Run
+892,000892,Eleonor Camarata,Duluth
+893,000893,Hedwig Bensing,Deadwood
+894,000894,Janeth Schreyer,Waka
+895,000895,Margurite Yori,Hegins
+896,000896,Robbin Mias,Nolanville
+897,000897,Treena Gaska,Mandeville
+898,000898,Beverly Rines,Colrain
+899,000899,Sherwood Julen,Rosamond
+900,000900,Gonzalo Bancourt,Walnut
+901,000901,Carmelina Saintlouis,Point Mugu Nawc
+902,000902,Forest Vierling,Hatfield
+903,000903,Criselda Knavel,Indian Springs
+904,000904,Juliette Garve,Gentry
+905,000905,Katharina Hochstetler,Culver
+906,000906,Melody Fraze,Gillett
+907,000907,Susanna Teixeria,Lignite
+908,000908,Silvana Correale,Brashear
+909,000909,Almeta Linn,Condon
+910,000910,Jerlene Sarac,Unity
+911,000911,Jarod Chet,Maryknoll
+912,000912,Stacee Garsia,Lake Worth
+913,000913,Eugenie Theimer,Fort Defiance
+914,000914,Princess Skokowski,Bellevue
+915,000915,Debbie Woolhiser,Miami
+916,000916,Elsa Malovich,Racine
+917,000917,Missy Agpaoa,Palmdale
+918,000918,Jaunita Zellous,Culver City
+919,000919,Marhta Wishum,Roaring Gap
+920,000920,Collene Winkler,Beulah
+921,000921,Russel Tuholski,Hutchinson
+922,000922,Cuc Straney,Wrightsville
+923,000923,Josiah Sespinosa,Pine Ridge
+924,000924,Daron Forbis,Cactus
+925,000925,Lajuana Petrelli,Orange
+926,000926,Debora Ganas,Tenstrike
+927,000927,Vinita Harkless,Trenton
+928,000928,Katherina Malena,Sunset
+929,000929,Corrin Zarn,Rattan
+930,000930,Christa Nkuku,Charleston
+931,000931,Dorcas Kafton,Brooklyn
+932,000932,Vicki Ropac,Tohatchi
+933,000933,Ressie Stacker,Barron
+934,000934,Andrew Houtz,Badin
+935,000935,Sabra Iborra,Lebanon
+936,000936,Vena Lech,New York City
+937,000937,Steffanie Bartkiewicz,Columbia
+938,000938,Deandra Errera,Staten Island
+939,000939,Leo Eicher,Windsor
+940,000940,Taylor Melgarejo,Menlo
+941,000941,Pricilla Maltba,Glad Valley
+942,000942,Jane Frisch,Lowesville
+943,000943,Wendolyn Genera,Harrisburg
+944,000944,Ingrid Fuls,Tokeland
+945,000945,Suzanna Schenk,Funk
+946,000946,Jarrett Maletta,Syracuse
+947,000947,Chantell Petrich,Menfro
+948,000948,Mikel Griner,Vaughan
+949,000949,Chun Monica,Hazel Green
+950,000950,Nguyet Carilli,Gruver
+951,000951,Nakisha Lemaitre,East Walpole
+952,000952,Tanya Rasley,Winnsboro
+953,000953,Stephani Stittsworth,Colorado Springs
+954,000954,Oliva Kahre,Frenchtown
+955,000955,Sherita Arlan,Cedar Rapids
+956,000956,Arthur Stroede,Minneapolis
+957,000957,Brunilda Wilbers,Readyville
+958,000958,Cori Isiordia,Oakdale
+959,000959,Danika Vancleaf,Amsden
+960,000960,Francisco Dauge,Kirby
+961,000961,Ronald Halward,Westminster
+962,000962,Marianna Eckhard,New York City
+963,000963,Kristina Gutkin,Sycamore
+964,000964,Dalia Waymer,York New Salem
+965,000965,Goldie Kowal,Chapman
+966,000966,Karl Yannuzzi,Milton
+967,000967,Kecia Gundersen,Milwaukee
+968,000968,German Linsay,Coal Run
+969,000969,Norman Legrone,Piedmont
+970,000970,Marleen Pickell,Saint Thomas
+971,000971,Randy Gauthreaux,Ashby
+972,000972,Geraldo Hulstrand,Mc Intosh
+973,000973,Magda Choulnard,Tacoma
+974,000974,Asley Kunkel,Roanoke
+975,000975,Tisa Zinsmeister,Amissville
+976,000976,Harriet Kaigle,East Orland
+977,000977,Lula Patridge,Melbourne
+978,000978,Anthony Jarzembowski,Kenosha
+979,000979,Keila Wisnowski,Newburgh
+980,000980,Nicky Nacion,Atlanta
+981,000981,Ressie Irle,Hubbell
+982,000982,Michal Godek,Fallbrook
+983,000983,Sharon Zanchi,Glasston
+984,000984,Pattie Dimery,Garden Prairie
+985,000985,Regine Jersey,Oak
+986,000986,Corina Echols,Kenton
+987,000987,Lucius Friehauf,Valders
+988,000988,Lourie Demry,Arkoma
+989,000989,Margot Daniello,San Jose
+990,000990,Dawna Marina,Renton
+991,000991,Donnette Grade,Scooba
+992,000992,Virgilio Verducci,Naples
+993,000993,Dagny Pelaez,Athens
+994,000994,Virgil Castagnier,Farmland
+995,000995,Della Navarro,Closter
+996,000996,Yung Becerril,Dallas
+997,000997,Chi Roessner,Pemberton
+998,000998,Luisa Reppell,Washington
+999,000999,Sherita Antonello,Ligonier
+1000,001000,Aleshia Candela,Barnstead
+1001,001001,Adolfo Heiliger,Templeton
+1002,001002,Patria Doud,Bigfork
+1003,001003,Reanna Coltharp,Saginaw
+1004,001004,Dan Conzemius,Preston
+1005,001005,Latasha Mashiah,Stockton
+1006,001006,Darryl Zamborano,Edgewood
+1007,001007,Hong Morrison,New Orleans
+1008,001008,Lesia Egleston,Corona Del Mar
+1009,001009,Gia Wojick,Cartwright
+1010,001010,Juliane Newhart,Olin
+1011,001011,Phillip Kellan,Bergenfield
+1012,001012,Marylou Burtin,Alden
+1013,001013,Bert Mcmulen,Fruithurst
+1014,001014,Nilsa Seifarth,Finley
+1015,001015,Reid Rios,Ridgeview
+1016,001016,Claud Morera,Storm Lake
+1017,001017,Dionna Groff,Damascus
+1018,001018,Angla Bernt,Canton
+1019,001019,Linwood Makepeace,Vega
+1020,001020,Remedios Kotek,Fort Lauderdale
+1021,001021,Ronald Briscoe,Start
+1022,001022,Suellen Zwicker,Flat Rock
+1023,001023,Isabel Kotte,Nyack
+1024,001024,Tempie Howett,Grays Knob
+1025,001025,Alex Amedee,Pe Ell
+1026,001026,Oneida Seese,Burt
+1027,001027,Bernita Duma,New York City
+1028,001028,Gwyn Wilson,Cowiche
+1029,001029,Sammy Truluck,Lexington
+1030,001030,Marivel Cantone,Walsenburg
+1031,001031,Nieves Giarratano,Round Rock
+1032,001032,Joana Melbert,Ashville
+1033,001033,Refugio Loeffler,Princeton
+1034,001034,Karole Kehs,Tacoma
+1035,001035,Lakia Courtemanche,Hinton
+1036,001036,Sherita Burlett,Barwick
+1037,001037,Ezekiel Eagy,Ridgely
+1038,001038,Janel Horris,New York City
+1039,001039,Thurman Pasierb,Lewis
+1040,001040,Tami Rivenburg,Fairbanks
+1041,001041,Catharine Kornhauser,Woolstock
+1042,001042,Terrence Gail,Lincoln
+1043,001043,Marcell Kemmerling,Davenport
+1044,001044,Raymond Robenson,Hardyville
+1045,001045,Alva Botdorf,Richardton
+1046,001046,Lexie Faul,Juneau
+1047,001047,Dan Amalong,Coalton
+1048,001048,Lakendra Salazer,Morganville
+1049,001049,Tammie Lapar,Saipan 
+1050,001050,Meridith Keep,Howe
+1051,001051,Shelley Horns,Canoga Park
+1052,001052,Debbi Calcagni,Norton
+1053,001053,Ashlea Karth,Washington
+1054,001054,Jen Boruvka,Lodgepole
+1055,001055,Lesia Pessin,Desert Center
+1056,001056,Laurel Ludolph,Monument
+1057,001057,Birgit Lomu,Trenton
+1058,001058,Annalisa Sobeck,Drexel
+1059,001059,Elise Titmus,Benicia
+1060,001060,Jodi Hollobaugh,Pensacola
+1061,001061,Therese Machkovich,Karlsruhe
+1062,001062,Raven Drumbore,El Paso
+1063,001063,Loyd Freedle,Port Edwards
+1064,001064,Kenyatta Alegi,Collinsville
+1065,001065,Wyatt Vangalder,Houston
+1066,001066,Ulrike Stanert,Weston
+1067,001067,Clair Schinke,Sycamore Valley
+1068,001068,Russell Kua,New Ross
+1069,001069,Angie Welp,Newport News
+1070,001070,Wanita Matheus,Spring Hope
+1071,001071,Isreal Haro,Federal Way
+1072,001072,Dedra Pauza,Almena
+1073,001073,Renae Bansal,Jackson
+1074,001074,Enrique Huitt,Lemont Furnace
+1075,001075,Margarite Bollens,San Antonio
+1076,001076,Dannielle Leonardis,Boise
+1077,001077,Tosha Lavalle,Monitor
+1078,001078,Coralee Rovelto,Mission
+1079,001079,Aleta Mikelsen,Wildsville
+1080,001080,Allison Pond,Jacksontown
+1081,001081,Vickie Kuffa,Orange Park
+1082,001082,Nicky Biersner,Lake Providence
+1083,001083,Piper Mayberry,Rockford
+1084,001084,Barrett Maker,Ossining
+1085,001085,Chong Ely,Denver
+1086,001086,Skye Nikkel,Tallahassee
+1087,001087,Jamar Volpi,Ventura
+1088,001088,Ema Kalin,Harlowton
+1089,001089,Bulah Cordel,Danbury
+1090,001090,Hester Gachupin,Manokin
+1091,001091,Concepcion Ramer,Van
+1092,001092,Cherry Kallus,New Lisbon
+1093,001093,Hortencia Meyerson,Benavides
+1094,001094,Josefine Ellis,Washington
+1095,001095,Vernon Brus,Edgar
+1096,001096,Karoline Ahlstrom,Orlinda
+1097,001097,Ernie Brimmage,Concord
+1098,001098,Cristobal Nemec,Madisonburg
+1099,001099,Gayle Aavang,Albertville
+1100,001100,Jene Halko,Baltimore
+1101,001101,Clint Hinh,Montpelier
+1102,001102,Stephnie Pipes,New York City
+1103,001103,Chet Cinque,Rio Vista
+1104,001104,Hertha Bew,Newark
+1105,001105,Jazmin Gunder,Gladewater
+1106,001106,Kaye Waclawski,Kenmore
+1107,001107,Barbara Easterling,Wolford
+1108,001108,Shea Oguendo,Fountainville
+1109,001109,Wyatt Bucks,Washington
+1110,001110,Wendolyn Yun,Sharpsville
+1111,001111,Bulah Hedinger,South Montrose
+1112,001112,Evangeline Wiedmann,Tacoma
+1113,001113,Elenor Boynton,Lake Geneva
+1114,001114,Elenora Kositzke,Oolitic
+1115,001115,Gillian Hainesworth,Tampa
+1116,001116,Lynwood Reckart,Mather
+1117,001117,Dominique Barret,Rowley
+1118,001118,Charlene Teranishi,Arlington
+1119,001119,Dakota Younie,Thornton
+1120,001120,Cristopher Alcaraz,Palisades
+1121,001121,Tomoko Molinelli,Hubert
+1122,001122,Misha Isaacson,Lafayette
+1123,001123,Dusti Dalo,Seminole
+1124,001124,Tora Dail,Fancher
+1125,001125,Vernon Kastman,Lansford
+1126,001126,Devin Hirko,Mongaup Valley
+1127,001127,Cinderella Bierley,Turkey Creek
+1128,001128,Jeanne Guenette,Harrisburg
+1129,001129,Valentina Mcglawn,El Paso
+1130,001130,Dorian Hotchkiss,Levittown
+1131,001131,Latashia Taran,Frenchmans Bayou
+1132,001132,Suzie Chason,New Almelo
+1133,001133,Chauncey Mceneny,Turbeville
+1134,001134,Shawn Tosches,Lazbuddie
+1135,001135,Janel Mongrain,Keyapaha
+1136,001136,Pamelia Aarons,Fullerton
+1137,001137,Elease Sokolski,Hyrum
+1138,001138,Charmaine Blackham,Richville
+1139,001139,Renae Jauron,Crouse
+1140,001140,Rick Monn,South Heights
+1141,001141,Lizzie Shilt,Taylorsville
+1142,001142,Sharri Ellies,Salem
+1143,001143,Joane Southward,Newport
+1144,001144,Gabriella Chinick,Buttzville
+1145,001145,Marcelino Gladwell,Pownal
+1146,001146,Kristan Rhinerson,Washington
+1147,001147,Janise Yeoman,Tappen
+1148,001148,Khadijah Abrell,Immokalee
+1149,001149,Dena Walking,Nashville
+1150,001150,Lavonna Hillesheim,Boise
+1151,001151,Coletta Toler,Anthon
+1152,001152,Sammie Bilbro,Ogunquit
+1153,001153,Luna Kollmeyer,Turner
+1154,001154,Garland Kloster,Ontario
+1155,001155,Alejandrina Ferries,Emeryville
+1156,001156,Debby Bargo,Red Rock
+1157,001157,Rusty Passi,Virginia Beach
+1158,001158,Alden Bawden,Erin
+1159,001159,Marcella Renken,Esparto
+1160,001160,Sabra Pasqualetti,Oxford
+1161,001161,Lavonda Caridine,Oglesby
+1162,001162,Ahmad Bajko,Wingett Run
+1163,001163,Shaunte Mirabito,Selma
+1164,001164,Dalia Wakeling,Blackburn
+1165,001165,Adele Gerfin,Corolla
+1166,001166,Claude Frances,Days Creek
+1167,001167,Tyrell Kletschka,Orlando
+1168,001168,Diego Quine,Arkansas City
+1169,001169,Leonarda Colchado,Randolph
+1170,001170,Romana Facey,Tecumseh
+1171,001171,Justin Finstad,Okanogan
+1172,001172,Robert Banzhaf,Houston
+1173,001173,Franklin Dobrynski,Owls Head
+1174,001174,Shanell Tarpy,Jenners
+1175,001175,Lilla Digrazia,Waterford
+1176,001176,Lawana Nyhus,Chicago
+1177,001177,Shu Engle,Dallardsville
+1178,001178,Dara Trudillo,South Egremont
+1179,001179,Lana Cahela,Percy
+1180,001180,Vinita Stueckrath,Castanea
+1181,001181,Helene Gowin,Rock Falls
+1182,001182,Cary Finazzo,Skidmore
+1183,001183,Lashon Buening,Midlothian
+1184,001184,Greg Minkin,Detroit
+1185,001185,Consuelo Pickette,East Brookfield
+1186,001186,Delinda Finnerty,Wilson
+1187,001187,Corrina Rickner,Pacific Palisades
+1188,001188,Bobby Fiacco,Fairview
+1189,001189,Britta Clowser,Springfield
+1190,001190,Jess Pastore,Tempe
+1191,001191,Winona Calibuso,Good Thunder
+1192,001192,Marisol Wanke,Magnolia
+1193,001193,Ali Rissman,Haynes
+1194,001194,Aldo Eschete,Birmingham
+1195,001195,Ping Quakenbush,Denmark
+1196,001196,Ronny Gilomen,Loma Linda
+1197,001197,Bennie Bacolor,Lake Charles
+1198,001198,Setsuko Derbyshire,Richmond
+1199,001199,Kiana Tappen,Vernon Hills
+1200,001200,Kasie Craven,Hamden
+1201,001201,Kari Hollopeter,Laurier
+1202,001202,Lauran Alme,Longisland
+1203,001203,Jean Reynaldo,Como
+1204,001204,Moses Sprow,Fort Collins
+1205,001205,Synthia Session,Crater Lake
+1206,001206,Willodean Texter,Fort Worth
+1207,001207,Sybil Ratner,Baton Rouge
+1208,001208,Reginald Gattison,Derby Line
+1209,001209,Corene Schurg,San Clemente
+1210,001210,Alethea Eismont,Gage
+1211,001211,Kacie Morter,Washington
+1212,001212,Dalila Erne,Clearmont
+1213,001213,Benedict Asebedo,Williamsport
+1214,001214,Val Wyles,Kent
+1215,001215,Maximina Arias,Washington
+1216,001216,Ellie Burmside,Alexander
+1217,001217,Astrid Go,Huntington Beach
+1218,001218,Carlie Veltkamp,Kimball
+1219,001219,Verline Whitting,Oliver
+1220,001220,Karoline Mcclane,Potter Valley
+1221,001221,Albina Adriano,Arlington
+1222,001222,Jo Corkill,Potsdam
+1223,001223,Elisabeth Hughen,New York City
+1224,001224,Mazie Miano,Westfield
+1225,001225,Lynda Tijing,Creston
+1226,001226,Beth Mizell,Salt Lake City
+1227,001227,Candi Landrus,Mesa Verde National Park
+1228,001228,Glennie Placencia,Reedsburg
+1229,001229,Erica Tier,Mills
+1230,001230,Efren Laswell,Fullerton
+1231,001231,Denise Seide,Joshua
+1232,001232,Natalya Hornoff,Youngsville
+1233,001233,Kevin Fyfe,Charlotte
+1234,001234,Caterina Manzur,Hendricks
+1235,001235,Gertrude Yandle,Bastrop
+1236,001236,Caitlyn Abt,Bloomington
+1237,001237,Shavonda Sedore,Sparks
+1238,001238,Fairy Vandernoot,Frazee
+1239,001239,Liberty Kushiner,Apache Junction
+1240,001240,Chara Massei,Brant Rock
+1241,001241,Tamara Bernardini,Hoisington
+1242,001242,Ma Marasco,Cantonment
+1243,001243,Mitzi Rishe,Lidderdale
+1244,001244,Edith Pikula,Richmond
+1245,001245,Connie Voyer,Grand Junction
+1246,001246,Ghislaine Lowther,Monticello
+1247,001247,Henrietta Murelli,Dodge Center
+1248,001248,Sunni Grumbling,Corral
+1249,001249,Brigitte Bame,Toughkenamon
+1250,001250,Shella Guynn,Leslie
+1251,001251,Alice Hollinghurst,Spur
+1252,001252,Mellie Torrence,Stirling
+1253,001253,Sau Gamer,Tsaile
+1254,001254,Lan Lewandowski,Marietta
+1255,001255,Ethel Reznicek,Clover
+1256,001256,Jovan Gade,Woodinville
+1257,001257,Tomoko Moretto,Russia
+1258,001258,Elias Asley,Manitou
+1259,001259,Kathryne Foutz,Hamilton
+1260,001260,Dario Rindfleisch,Salem
+1261,001261,Candelaria Rabbitt,Oak Creek
+1262,001262,Raguel Hoshall,Newtown
+1263,001263,Fred Jang,Lenoir City
+1264,001264,Santo Ley,Topanga
+1265,001265,Jacques Stahler,Plainfield
+1266,001266,Tyron Degele,Cedar Glen
+1267,001267,Theo Buzo,Lyndon
+1268,001268,Starr Rencher,Tuscaloosa
+1269,001269,Alica Rotty,Bryant
+1270,001270,Raeann Gorrindo,Warba
+1271,001271,So Clonts,Normangee
+1272,001272,Francis Sledd,Lowell
+1273,001273,Dani Winarski,Nobleton
+1274,001274,Marguerite Mensinger,Nilwood
+1275,001275,Jenette Premo,Vestaburg
+1276,001276,Torie Stiger,San Antonio
+1277,001277,Fernando Batun,Greenville
+1278,001278,Shana Sneller,Brookville
+1279,001279,Krystyna Calvillo,Santa Clara
+1280,001280,Harold Nauarro,Hanska
+1281,001281,Hellen Mcdougald,Makoti
+1282,001282,Devon Rew,Lisbon
+1283,001283,Joselyn Saia,Fort Worth
+1284,001284,Sheree Font,Casey Creek
+1285,001285,Chu Chumbley,Boelus
+1286,001286,Eden Walterson,Garryowen
+1287,001287,Keturah Vizena,Hampshire
+1288,001288,Katrice Leppanen,Amherst
+1289,001289,Willow Lyas,Irvington
+1290,001290,Vannesa Samperi,Rochester
+1291,001291,Demetrice Steinauer,Peoria
+1292,001292,Eladia Ryden,Torrance
+1293,001293,Maira Pinsonneault,Oklahoma City
+1294,001294,Belle Westphalen,Clarkfield
+1295,001295,Hye Canela,Monticello
+1296,001296,Marshall Resek,Grover
+1297,001297,Maxie Unser,Steinauer
+1298,001298,Mechelle Jemerson,Shawnee Mission
+1299,001299,Colby Ptomey,Bena
+1300,001300,Gertude Pavan,Alpine
+1301,001301,Vashti Whitelaw,Easton
+1302,001302,Lashunda Voorhies,Isle Of Springs
+1303,001303,Deloise Sterger,Sacramento
+1304,001304,David Roadcap,Stopover
+1305,001305,Vilma Condello,Offerle
+1306,001306,Angelique Muhammed,Washington
+1307,001307,Merrill Orlin,Fort George G Meade
+1308,001308,Ilse Hirsch,Knox City
+1309,001309,Raleigh Purzycki,Great Falls
+1310,001310,Colleen Knoop,West Point
+1311,001311,Melvin Wedin,Hartsfield
+1312,001312,Sylvie Alawdi,Levels
+1313,001313,Asuncion Bostrom,Wyandanch
+1314,001314,Tanika Intrabartolo,Montpelier
+1315,001315,Lacie Karamchandani,Marlborough
+1316,001316,Venessa Carrero,Cincinnati
+1317,001317,Janyce Lieu,Dows
+1318,001318,Sally Laforest,Seminole
+1319,001319,Dina Venable,Jasper
+1320,001320,Shila Aharon,Avilla
+1321,001321,Taylor Gritz,Los Angeles
+1322,001322,Aileen Voice,Fogelsville
+1323,001323,Alise Jurek,Wyola
+1324,001324,Aleshia Skarphol,Atlanta
+1325,001325,Mac Luing,Craig
+1326,001326,Benita Perlmutter,South Acworth
+1327,001327,Randy Layo,Tacoma
+1328,001328,Tama Eggert,Oakboro
+1329,001329,Vernell Boosalis,Big Pine
+1330,001330,Cruz Lafoy,Colorado Springs
+1331,001331,Garth Mascola,Eden
+1332,001332,Carola Nuvallie,Toxey
+1333,001333,Jina Hersom,Lancaster
+1334,001334,Ocie Haumesser,Hartford
+1335,001335,Alysia Flenniken,Cawood
+1336,001336,Alease Koslosky,Williamson
+1337,001337,Monnie Sidles,Winterville
+1338,001338,Paul Perri,Princeville
+1339,001339,Deon Broersma,Needles
+1340,001340,Jeremy Berkhimer,Albion
+1341,001341,Enda Feagans,Port Chester
+1342,001342,Omar Zuelke,Falls Of Rough
+1343,001343,Rashida Maruska,Middleburg
+1344,001344,Maranda Brauchla,Old Appleton
+1345,001345,Karleen Redlinger,Alma
+1346,001346,Marcia Sonnefeld,Howell
+1347,001347,Daryl Kincade,Everson
+1348,001348,Jonell Dhar,Southworth
+1349,001349,Maurine Przedwiecki,Winston Salem
+1350,001350,Robert Leake,Wanamingo
+1351,001351,Cierra Maisenbacher,Sanford
+1352,001352,Warren Blacker,Green Bay
+1353,001353,Stewart Paustian,Hillsdale
+1354,001354,Omar Huett,West Shokan
+1355,001355,Jefferson Zwinger,Tell City
+1356,001356,Ronnie Lynam,Manchester
+1357,001357,Keiko Schaefer,Panora
+1358,001358,Ezra Teator,Southbridge
+1359,001359,Valerie Turnham,Port Charlotte
+1360,001360,Malcom Kamphoefner,Edroy
+1361,001361,Michelle Hauslein,San Antonio
+1362,001362,Collen Teats,Frost
+1363,001363,Anette Lee,Mc Kinney
+1364,001364,Sharilyn Sillitoe,Avon
+1365,001365,Armida Willms,Wayside
+1366,001366,Branda Vogler,Novice
+1367,001367,Vicente Vanboven,Accident
+1368,001368,Sam Mcgrant,Fisher
+1369,001369,Silas Hett,Rockfield
+1370,001370,Andrew Mavity,Grand Coteau
+1371,001371,Sanda Callis,Riverton
+1372,001372,Nereida Servantes,New Brunswick
+1373,001373,Vennie Stodden,Reserve
+1374,001374,Dimple Bobb,Los Angeles
+1375,001375,Katy Tresler,Winthrop
+1376,001376,Miguelina Carey,Marshall
+1377,001377,Billie Frid,Philadelphia
+1378,001378,Twana Hinchliff,Vero Beach
+1379,001379,Alysa Swenceski,Richmond
+1380,001380,Torri Brandl,Oostburg
+1381,001381,Raphael Ridner,Pittsburgh
+1382,001382,Francisco Fieselman,Colorado Springs
+1383,001383,Myrle Serrato,Marion
+1384,001384,Kerstin Colomy,Linn
+1385,001385,Lue Brinley,Reno
+1386,001386,Shyla Sisco,Wake Forest
+1387,001387,Serita Scharte,Portland
+1388,001388,Mercedez Armijo,Surprise
+1389,001389,Lorean Haymans,Spicewood
+1390,001390,Madonna Gennaro,Cleveland
+1391,001391,Desire Macwilliams,Janesville
+1392,001392,Lynn Saluto,Holland
+1393,001393,Tawny Dernier,Greenland
+1394,001394,Bella Ryhal,Rocksprings
+1395,001395,Elina Scurry,Fort Stewart
+1396,001396,Vella Mohrlock,Eastsound
+1397,001397,Caryl Plocek,Barnum
+1398,001398,Steven Cocanougher,West Monroe
+1399,001399,Lavada Jacocks,Vienna
+1400,001400,Raelene Fiebelkorn,Federalsburg
+1401,001401,Rena Direnzo,Mathews
+1402,001402,Lois Sayward,Pontiac
+1403,001403,Natalie Berryman,Thayer
+1404,001404,Ayana Bordinger,Bonaparte
+1405,001405,Sang Stefanelli,Denver
+1406,001406,Marline Parco,Pasadena
+1407,001407,Cheyenne Greviston,Paullina
+1408,001408,Donnetta Dermady,Blair
+1409,001409,Lindsay Liversedge,El Paso
+1410,001410,Donald Running,Newhall
+1411,001411,Danika Inciong,Johnson
+1412,001412,Bradford Rodarta,Telferner
+1413,001413,David Plymel,Scottsburg
+1414,001414,Neida Siddiq,Alamogordo
+1415,001415,Tracee Cadman,Clarksville
+1416,001416,Magda Korenek,Plumville
+1417,001417,Rodrigo Sicilia,San Rafael
+1418,001418,Marya Harner,Douglasville
+1419,001419,Wm Amrein,Stillwater
+1420,001420,Janee Numkena,Points
+1421,001421,Ross Petrick,Weikert
+1422,001422,Vinita Ledy,Fairfield
+1423,001423,Dorathy Gouzy,Saginaw
+1424,001424,Jolyn Lipscombe,Fifield
+1425,001425,Rena Maniar,Altamonte Springs
+1426,001426,Tammara Antonich,Memphis
+1427,001427,Adolph Jens,Nashport
+1428,001428,Libby Shanks,Pleasant Grove
+1429,001429,Noble Rasp,Linden
+1430,001430,Aaron Milks,Birmingham
+1431,001431,Lelia Klasinski,Tucson
+1432,001432,Roselia Vignaux,Van Nuys
+1433,001433,Yen Rhew,Savannah
+1434,001434,Jayne Holstein,Wilmington
+1435,001435,Ramona Gouge,Hialeah
+1436,001436,Versie Stephanie,Haleiwa
+1437,001437,Penney Kunzler,Cartersville
+1438,001438,Jinny Luchsinger,Neck City
+1439,001439,Shemika Harden,South Pomfret
+1440,001440,Yuriko Casino,Grady
+1441,001441,Magaly Carrozza,Fromberg
+1442,001442,Lan Ravi,Rices Landing
+1443,001443,Daren Bondurant,Boca Raton
+1444,001444,Leena Klees,Alverton
+1445,001445,Marshall Kunde,Lakeview
+1446,001446,Jimmie Capati,Cleveland
+1447,001447,Glynda Gatrell,Austell
+1448,001448,Jack Faletti,Burlington
+1449,001449,Shayna Strelow,Charlotte
+1450,001450,Silva Scogin,Blue Ridge
+1451,001451,Bernadine Barbie,Grand Meadow
+1452,001452,Virgil Lesperance,Clearfield
+1453,001453,Carma Labranche,Patrick
+1454,001454,Eura Millerd,Utica
+1455,001455,Alicia Kreischer,Las Vegas
+1456,001456,Kanisha Marchand,Bremerton
+1457,001457,Oma Theule,South Burlington
+1458,001458,Carmelita Babiarz,Earlington
+1459,001459,Clarice Laurendeau,Russian Mission
+1460,001460,Merilyn Capozzoli,Flower Mound
+1461,001461,Leland Justiniano,Glenfield
+1462,001462,Despina Josten,Fultondale
+1463,001463,Mitsue Raethke,Yorba Linda
+1464,001464,Corrina Kosik,Monmouth
+1465,001465,Janae Cavaluzzi,San Antonio
+1466,001466,Jeanelle Manriquez,Naper
+1467,001467,Emery Body,Munson
+1468,001468,Branda Bakke,White City
+1469,001469,Clint Tenhoff,American Canyon
+1470,001470,Milton Sobczyk,Cumby
+1471,001471,Noelia Mocha,Avera
+1472,001472,Min Monrreal,Ely
+1473,001473,Sanda Crossman,Loyalhanna
+1474,001474,Kristin Erdos,Bluff City
+1475,001475,Reuben Nolette,Raleigh
+1476,001476,Lila Swee,Sacramento
+1477,001477,Will Dzama,Stewartsville
+1478,001478,Sadye Klint,Star
+1479,001479,Maryetta Costlow,Harrisville
+1480,001480,Devon Burgey,Bloomingburg
+1481,001481,Elenore Okoniewski,Tallahassee
+1482,001482,Felix Waugaman,Warren
+1483,001483,Ester Marchman,San Francisco
+1484,001484,Demetrius Stops,Chapin
+1485,001485,Kindra Tanori,Bloomfield
+1486,001486,Scotty Mctarnaghan,Clifford
+1487,001487,Eric Mulhern,Jonesboro
+1488,001488,Margarete Aveline,Vivian
+1489,001489,Georgetta Dotson,Hondo
+1490,001490,Brigid Menette,Somonauk
+1491,001491,Rufus Defosset,Whalan
+1492,001492,Mel Callens,Barboursville
+1493,001493,Katrice Roam,Decatur
+1494,001494,Analisa Cassello,Cleveland
+1495,001495,Paola Murcia,Seiad Valley
+1496,001496,Yang Yerian,Shreveport
+1497,001497,Reid Easker,Ann Arbor
+1498,001498,Frankie Mileti,Talpa
+1499,001499,Buford Gathman,Fallbrook
+1500,001500,Judith Rezai,Moffat
+1501,001501,Daron Graf,Omaha
+1502,001502,Cordelia Dimsdale,West Buxton
+1503,001503,Shenna Gudiel,San Pablo
+1504,001504,Dorathy Ermitano,Pacific City
+1505,001505,Merle Sherfy,Carrollton
+1506,001506,Monserrate Azevedo,Corunna
+1507,001507,Kassandra Frayer,Clearwater
+1508,001508,Rubi Kytle,Grady
+1509,001509,Karla Jass,Williamsfield
+1510,001510,Lavern Ou,Ellington
+1511,001511,Janella Vogelsang,Whitesburg
+1512,001512,Sandy Bloemker,Boise
+1513,001513,Matha Menesez,Seaman
+1514,001514,Eilene Rehbock,Cedar Point
+1515,001515,Roxie Deschner,Mercer
+1516,001516,Margery Gooch,Weiner
+1517,001517,Milan Lons,Lowell
+1518,001518,Augustus Fornier,Otter Lake
+1519,001519,Katia Dupree,Lakeview
+1520,001520,Lucie Stageman,Owen
+1521,001521,Gail Bachtell,Phoenix
+1522,001522,Melodie Bilger,Nassau
+1523,001523,Elida Meua,Johnson
+1524,001524,Barabara Bourgoine,Newport
+1525,001525,Carmon Flirt,East Waterford
+1526,001526,Fermina Kakaviatos,Tippecanoe
+1527,001527,Meg Artzer,Walburg
+1528,001528,Mathilda Teisberg,Jackson
+1529,001529,Spring Waszak,Sauk Centre
+1530,001530,Milton Winklepleck,Jennerstown
+1531,001531,Demarcus Plymale,Wolverton
+1532,001532,Edmond Remlin,Eldridge
+1533,001533,Mozelle Reali,Grovertown
+1534,001534,Rory Scales,Tupelo
+1535,001535,Chester Airington,Prineville
+1536,001536,Althea Quitedo,Whitney Point
+1537,001537,Leanora Starcic,Wilmington
+1538,001538,Roosevelt Kemmeries,Tyngsboro
+1539,001539,Jessia Toalson,Boyds
+1540,001540,Lonnie Puleo,Odenville
+1541,001541,Wen Treaster,Stanhope
+1542,001542,Scott Prior,Saint Ignatius
+1543,001543,Erick Heinbach,Norwalk
+1544,001544,Dewayne Pryde,Portland
+1545,001545,Kristan Dittrick,Keyesport
+1546,001546,Garth Panza,Bakersville
+1547,001547,Alla Exe,Granville
+1548,001548,Juanita Champy,Carrollton
+1549,001549,Darell Zajac,Saint Martin
+1550,001550,Berniece Chamness,Stow
+1551,001551,Rosana Labianca,Clarkston
+1552,001552,Merlyn Vollman,Greenville
+1553,001553,Dane Martyn,Cassadaga
+1554,001554,Jolene Seher,Grand Rapids
+1555,001555,Pei Vanpoppelen,Rockingham
+1556,001556,Quinn Spiers,Colorado Springs
+1557,001557,Gaston Coray,Grandview
+1558,001558,Zetta Shelkoff,New Martinsville
+1559,001559,Teresia Dantzler,Brownsville
+1560,001560,Sena Boehnke,Cogan Station
+1561,001561,Carma Bonsignore,Camden
+1562,001562,Judith Lawley,Jamestown
+1563,001563,Natisha Donate,Louisville
+1564,001564,Bula Ricketson,Old Forge
+1565,001565,Gidget Sarelas,East Blue Hill
+1566,001566,Julieann Cartner,Crowville
+1567,001567,Lester Bowl,Genoa
+1568,001568,Kary Haugaard,Cincinnati
+1569,001569,Landon Neuby,Mcloud
+1570,001570,Johanna Zappia,La Honda
+1571,001571,Vashti Shave,Maricopa
+1572,001572,Simonne Tuamoheloa,Spokane
+1573,001573,Raymond Pittinger,Hoboken
+1574,001574,Clora Whitley,Lake Arthur
+1575,001575,Kelle Whittenburg,Hobson
+1576,001576,Simone Hainsworth,Flint
+1577,001577,Maribel Kandra,Medicine Lake
+1578,001578,Kyung Butala,Logan
+1579,001579,Chung Dulay,Seaside
+1580,001580,Joye Todora,Columbia
+1581,001581,Perla Bulock,Fifty Lakes
+1582,001582,Candance Burdine,Albrightsville
+1583,001583,Eduardo Juliano,Erie
+1584,001584,Terresa Hugh,Fults
+1585,001585,Ayako Sheetz,Burdett
+1586,001586,Penney Moroni,Harlem Springs
+1587,001587,Johnson Wentcell,Meridian
+1588,001588,Valencia Mongeau,Strasburg
+1589,001589,Venita Sassaman,Grimms Landing
+1590,001590,Terry Mcclammy,Brunswick
+1591,001591,Hwa Tone,Barnesboro
+1592,001592,Karlene Kassim,Salters
+1593,001593,Otilia Desmeules,Mansfield
+1594,001594,Charlena Rettinger,Burlington
+1595,001595,Coreen Freiman,Stevinson
+1596,001596,Berta Gilman,Brigantine
+1597,001597,Dane Galvan,Galveston
+1598,001598,Grazyna Blundo,Bristol
+1599,001599,Annett Jegede,Baconton
+1600,001600,Anjelica Satchwell,Whitehouse Station
+1601,001601,Gloria Tebbe,Beach Haven
+1602,001602,Danna Parrill,Lutz
+1603,001603,Tomi Delmundo,Stanfield
+1604,001604,Sharilyn Ogram,Toledo
+1605,001605,Dalila Baccari,Winston Salem
+1606,001606,Yanira Gentges,River Rouge
+1607,001607,Phil Trapasso,Arrington
+1608,001608,Randy Weatherbee,Atlanta
+1609,001609,Jose Greg,Kirkland
+1610,001610,Yong Sedotal,Gentryville
+1611,001611,Tristan Hemmig,Goodson
+1612,001612,Amiee Tsuchiura,Rising Star
+1613,001613,Dortha Ooley,Mullinville
+1614,001614,Vania Barret,Minneapolis
+1615,001615,Adriana Villena,Berkshire
+1616,001616,Man Hauman,Deep Water
+1617,001617,Genie Mayou,Raleigh
+1618,001618,Genna Buchberger,Red Cloud
+1619,001619,Tereasa Cybulski,Iliff
+1620,001620,Tanner Tercero,Oakdale
+1621,001621,Marielle Zabel,Lexington
+1622,001622,Ernestine Viens,Adamsville
+1623,001623,Mellisa Cobarrubias,Adell
+1624,001624,Cammie Gravlin,Miami
+1625,001625,Rupert Philmore,Spokane
+1626,001626,Derick Benett,Silver Grove
+1627,001627,Ula Lietzke,Madison Heights
+1628,001628,Katrina Segonia,Hall
+1629,001629,Shay Beahn,Wilmington
+1630,001630,Jeanne Coor,Pembroke Pines
+1631,001631,Dotty Resto,Greensboro
+1632,001632,Vernice Gesing,Mc Lean
+1633,001633,Lynelle Picot,Irma
+1634,001634,Janis Masingale,Draper
+1635,001635,Horace Deforrest,Cedar Falls
+1636,001636,Tamesha Grullon,Tula
+1637,001637,Gordon Malich,Birds Landing
+1638,001638,Tammera Wallin,Menifee
+1639,001639,Billy Montoto,Shawnee Mission
+1640,001640,Lexie Schmille,Cannon Ball
+1641,001641,Lanora Hibbitt,South Milwaukee
+1642,001642,Catrina Mellendorf,Beattie
+1643,001643,Candance Earleywine,Marcus
+1644,001644,Sarai Abes,Wichita
+1645,001645,Yuri Soper,Powell
+1646,001646,Saul Huber,Bartlesville
+1647,001647,Criselda Ure,Frakes
+1648,001648,Elease Tober,Glen Flora
+1649,001649,Gracia Bulkeley,Seven Valleys
+1650,001650,Hershel While,Dickens
+1651,001651,Man Steffey,Alfred Station
+1652,001652,Carl Dasinger,Harborton
+1653,001653,Luanne Peto,Camden Point
+1654,001654,Shawana Wiese,Lynchburg
+1655,001655,Jeniffer Mcwayne,Peyton
+1656,001656,Cyndy Froneberger,Ruth
+1657,001657,Donnie Hannawalt,Burlingame
+1658,001658,Britney Sedar,Washington
+1659,001659,Luciana Usilton,El Macero
+1660,001660,Dierdre Sodek,New Germany
+1661,001661,Neva Bartin,Bend
+1662,001662,Akilah Arnholtz,Dalzell
+1663,001663,Manda Carls,Mountain Center
+1664,001664,Lelah Sykora,Liberty
+1665,001665,Sade Adle,Viburnum
+1666,001666,Robin Marconi,Glasco
+1667,001667,Yon Commiskey,Kiamesha Lake
+1668,001668,Fae Picard,Cuero
+1669,001669,Hortense Dalhover,Far Rockaway
+1670,001670,Leslie Niceswander,Wakefield
+1671,001671,Coretta Sivert,Koosharem
+1672,001672,Lauren Wiscount,Kansas City
+1673,001673,Michele Vavricka,Hereford
+1674,001674,Kelsie Berkenbile,Washington
+1675,001675,Gilberte Koslow,Harrisburg
+1676,001676,Monica Reglin,Aurora
+1677,001677,Signe Lauture,Port Monmouth
+1678,001678,Gabriele Wollam,Jersey City
+1679,001679,Tonie Deichman,Elon College
+1680,001680,Jannie Houy,Munds Park
+1681,001681,Saundra Hudley,Dalton
+1682,001682,Gracia Nordsiek,Harviell
+1683,001683,Alla Elsayed,Delray Beach
+1684,001684,Kaycee Scheidt,Auburn
+1685,001685,Else Oganesian,Washington
+1686,001686,Kirby Diffee,Winnetoon
+1687,001687,Laure Iiams,Boynton Beach
+1688,001688,Terisa Vanvolkenburg,Powell
+1689,001689,Stefani Ruzzo,Hudson
+1690,001690,Sueann Ritchey,Corning
+1691,001691,Leena Kautzer,Buckland
+1692,001692,Harriett Hazen,Brookfield
+1693,001693,Deedra Bastian,Redwood Estates
+1694,001694,Denice Placencio,Copake
+1695,001695,Herschel Shanor,Haverhill
+1696,001696,Hollis Illies,Jim Falls
+1697,001697,Annetta Hursey,Windsor
+1698,001698,Machelle Servis,Altamonte Springs
+1699,001699,Richard Dhondt,Plattsburgh
+1700,001700,Kate Yeakle,Bountiful
+1701,001701,Dawn Bertotti,Minisink Hills
+1702,001702,Charlie Ranes,West Lebanon
+1703,001703,Tangela Bergquist,Yukon
+1704,001704,Dortha Polimeni,Douglas
+1705,001705,Alva Steensland,Readlyn
+1706,001706,Verlie Scherz,Blanchardville
+1707,001707,Demarcus Greco,Newark
+1708,001708,Dorotha Buza,Charlotte
+1709,001709,Palma Curia,Huntington Beach
+1710,001710,Annelle Haeussler,Hopedale
+1711,001711,Shirly Riordan,High Ridge
+1712,001712,Myron Nicklien,East Bloomfield
+1713,001713,Brianna Ordeneaux,Willcox
+1714,001714,Oralia Raulerson,West Salem
+1715,001715,Ethelyn Clemmons,Von Ormy
+1716,001716,Kylee Hilton,Albany
+1717,001717,Carin Kloeppel,Sacramento
+1718,001718,Lurline Verdusco,Los Angeles
+1719,001719,Shizuko Diiorio,Greensboro
+1720,001720,Rodrick Adels,Hartfield
+1721,001721,Breann Bandyk,Clark
+1722,001722,Diana Jarboe,Middleburg
+1723,001723,Logan Lacefield,South Lancaster
+1724,001724,Reta Diamico,Manchester
+1725,001725,Leeanna Mole,Hoosick Falls
+1726,001726,Sandy Thom,Highlands
+1727,001727,Sherron Portilla,Saint Louis
+1728,001728,Phoebe Billen,Globe
+1729,001729,Chau Enget,Breezy Point
+1730,001730,Letha Derry,Columbus
+1731,001731,Roxie Mcelroy,Haines
+1732,001732,Herman Jessee,Delta
+1733,001733,Shalon Schwemmer,Anderson
+1734,001734,Jimmy Norwell,Grass Lake
+1735,001735,Gregorio Janski,Lincolnwood
+1736,001736,Star Formento,Rushsylvania
+1737,001737,Mellie Sjulstad,Algonquin
+1738,001738,Lilly Synakowski,Hendricks
+1739,001739,Margarita Hoblit,Oakpark
+1740,001740,Shiloh Godsman,Mill Creek
+1741,001741,Stephaine Moryl,Rolla
+1742,001742,Lyndon Sien,Ohio
+1743,001743,Davina Alba,Great Neck
+1744,001744,Kimbra Rivero,Saluda
+1745,001745,Petronila Tippins,Woodville
+1746,001746,Nicholas Steinhour,Cassville
+1747,001747,Pablo Vickey,San Francisco
+1748,001748,Cassy Malavet,Mobile
+1749,001749,Meagan Mccole,Los Angeles
+1750,001750,Nelle Sanday,De Kalb
+1751,001751,Katrice Mikkelson,Gainesville
+1752,001752,Rudy Lauden,Willard
+1753,001753,Alleen Bujak,Johnston
+1754,001754,Vernice Stormont,Little Valley
+1755,001755,Enda Feleppa,Elberton
+1756,001756,Veronika Tangney,Lake Worth
+1757,001757,Anika Talerico,Jefferson City
+1758,001758,Dane Brancanto,Austin
+1759,001759,Oswaldo Vipond,Ryland
+1760,001760,Kenda Brienen,Hill City
+1761,001761,Kori Digeorgio,Elkport
+1762,001762,Tasha Haya,Fairview
+1763,001763,Marcell Biancaniello,Sterling
+1764,001764,Kristeen Torress,Myakka City
+1765,001765,Domonique Smiechowski,Hope
+1766,001766,Donya Modica,Spring Arbor
+1767,001767,Slyvia Goodhart,Superior
+1768,001768,Gerald Trumpower,Gordon
+1769,001769,Charline Ally,Madison
+1770,001770,Noemi Allessi,Malverne
+1771,001771,Lan Stonelake,Rosenhayn
+1772,001772,Dottie Schurz,Bathgate
+1773,001773,Bryce Adelmund,Washington
+1774,001774,Royce Vondracek,Friesland
+1775,001775,Jerica Waddles,Frankfort
+1776,001776,Jayne Sobczynski,Atlanta
+1777,001777,Nguyet Gastellum,Union Furnace
+1778,001778,Charlie Bedaw,Potosi
+1779,001779,Drucilla Marentis,Joanna
+1780,001780,Meagan Valrie,Auburn
+1781,001781,Deborah Havatone,Mount Washington
+1782,001782,Randell Vaughen,Ringling
+1783,001783,Eryn Abu,San Pedro
+1784,001784,Phillis Jorres,Kellnersville
+1785,001785,Elmo Piltz,Warner Springs
+1786,001786,Jerald Kijowski,Philadelphia
+1787,001787,Gennie Wegweiser,Amston
+1788,001788,Kristal Berray,Birmingham
+1789,001789,Min Allers,Scotts Valley
+1790,001790,Sergio Leggs,Verona
+1791,001791,Roselyn Icard,Marina
+1792,001792,Freddie Ziadie,Nixon
+1793,001793,Evangeline Ollis,Newmarket
+1794,001794,Keena Heiniger,Melbourne
+1795,001795,Carmelina Espenshade,Arthur
+1796,001796,Hank Gunzalez,South Lee
+1797,001797,Magnolia Heyes,La Porte
+1798,001798,Tish Regalado,Saint Louis
+1799,001799,Quinton Pockrus,Avon
+1800,001800,Shanda Donohue,Mid Florida
+1801,001801,Felipe Spidle,Tuba City
+1802,001802,Allyn Stoll,Fayette
+1803,001803,Anjanette Sumlar,Orlando
+1804,001804,Randy Foreback,Samburg
+1805,001805,Fredericka Lenyard,Freeport
+1806,001806,Rashida Lessen,Tutwiler
+1807,001807,Ramiro Renyer,Linville
+1808,001808,Maximo Quitugua,Miami
+1809,001809,Andres Rexroat,Roxobel
+1810,001810,Mason Wilson,North Concord
+1811,001811,Adam Holroyd,Littlerock
+1812,001812,Sadye Poll,Boston
+1813,001813,Adriene Ostrander,Redford
+1814,001814,Laquanda Doucet,Springfield
+1815,001815,Bernie Schmittou,Salemburg
+1816,001816,Judith Dockins,Lempster
+1817,001817,Scott Sonoski,Amberson
+1818,001818,Misty Chiu,Oak Ridge
+1819,001819,Dorris Stohs,Purcellville
+1820,001820,Benedict Scism,Orlando
+1821,001821,Lan Colquitt,Argyle
+1822,001822,Darby Lackman,Gracemont
+1823,001823,Tonia Pennant,Cyril
+1824,001824,Letisha Nemunaitis,Radium Springs
+1825,001825,Clement Borras,Daly City
+1826,001826,Venita Ok,Dover
+1827,001827,Davida Schreckhise,Granada Hills
+1828,001828,Shalon Marsalis,Tower Hill
+1829,001829,Aleida Cantarella,Georgetown
+1830,001830,Simone Xang,Bevier
+1831,001831,Marie Grich,Kansas City
+1832,001832,Nancey Denogean,Croton On Hudson
+1833,001833,Soila Petropoulos,Rives
+1834,001834,Antonetta Coykendall,Denver
+1835,001835,Matilda Blackstar,Tyrone
+1836,001836,Seema Zanayed,Coleman Falls
+1837,001837,Madge Bretz,Ross
+1838,001838,Ray Darty,Andover
+1839,001839,Deon Fouse,Coaling
+1840,001840,Otha Rasnic,Mehama
+1841,001841,Kirstie Sane,Washington
+1842,001842,Daren Gick,Melrose
+1843,001843,Fred Parsh,Eugene
+1844,001844,Jeana Fugler,Milbank
+1845,001845,Reagan Veach,Munday
+1846,001846,Long Pforr,Albany
+1847,001847,Madonna Ferrise,Gate
+1848,001848,Charlesetta Raudebaugh,Ephraim
+1849,001849,Nila Colecchi,Whitelaw
+1850,001850,Margareta Straley,Lagrange
+1851,001851,Jeffry Tejedor,Chinle
+1852,001852,Miranda Delawyer,Houston
+1853,001853,Camilla Malaney,Ventura
+1854,001854,Mindi Maigret,Gilmanton
+1855,001855,Lissa Koolman,Brooklyn
+1856,001856,Harvey Pear,Marengo
+1857,001857,Emerald Koenigstein,Denver
+1858,001858,Fumiko Etling,Port Matilda
+1859,001859,Chan Hyden,Chantilly
+1860,001860,Shay Sarlinas,Jacksonboro
+1861,001861,Martina Arildsen,Petersburg
+1862,001862,Vicki Bitsuie,El Paso
+1863,001863,Renaldo Selsor,Jonestown
+1864,001864,Francoise Olerud,Crestline
+1865,001865,Domonique Lothrop,Fly
+1866,001866,Louie Policare,Joelton
+1867,001867,Madaline Hemperley,Mc Farland
+1868,001868,Raleigh Plush,Evarts
+1869,001869,Carletta Papelian,Asheville
+1870,001870,Richard Caricofe,Twin Bridges
+1871,001871,Betty Esther,Herculaneum
+1872,001872,Freeda Lab,Wichita
+1873,001873,Eddie Dine,Bearcreek
+1874,001874,Lorelei Hillered,Austin
+1875,001875,Crista Duelm,Ladoga
+1876,001876,Dewayne Lesch,Marathon
+1877,001877,Lavone Kuhtz,Mobile
+1878,001878,Tameka Halligan,Shacklefords
+1879,001879,Caroline Caputo,Paulina
+1880,001880,Corey Sachtleben,Cincinnati
+1881,001881,Hassan Kasel,Huntington
+1882,001882,Todd Drinkwater,Fayetteville
+1883,001883,Michael Tejeda,Windsor
+1884,001884,Lynsey Lolley,Lummi Island
+1885,001885,Sherrill Duzan,Surprise
+1886,001886,Yuri Zeidman,Atlanta
+1887,001887,Roseann Schleimer,New York City
+1888,001888,Jason Toothaker,Washington
+1889,001889,Eliz Goike,Latour
+1890,001890,Shena Bredy,Vienna
+1891,001891,Aliza Villacis,Harrison
+1892,001892,Nickole Zimmerly,Morgantown
+1893,001893,Wonda Houskeeper,West Valley
+1894,001894,Carmen Ebanks,Batesville
+1895,001895,Dione Riblet,Creighton
+1896,001896,Beaulah Odear,Verona
+1897,001897,Misti Basnight,Mooers Forks
+1898,001898,Perla Molles,Spring
+1899,001899,Hye Eilers,Phoenix
+1900,001900,Lona Cromartie,Bronx
+1901,001901,Diedre Leerar,Prospect Heights
+1902,001902,Tameka Lodato,Gideon
+1903,001903,Emely Swart,Auburndale
+1904,001904,Myesha Kupstas,Raleigh
+1905,001905,Shelba Guard,Spartanburg
+1906,001906,Olin Zera,Tipton
+1907,001907,Daria Hawkey,Gordonville
+1908,001908,Renita Vanbrunt,Natchitoches
+1909,001909,Glinda Metil,Arlington
+1910,001910,Dia Czapiewski,Palm Harbor
+1911,001911,Edwardo Vilt,Browns Valley
+1912,001912,Ilana Nordstrom,Lindon
+1913,001913,Kristine Daggy,Snydertown
+1914,001914,Emory Kneisler,Homestead
+1915,001915,Enola Hordge,Fredericksburg
+1916,001916,Davis Dieter,Treichlers
+1917,001917,Eleanore Behr,Brunswick
+1918,001918,Linnea Seaward,Sacramento
+1919,001919,Rhoda Spille,Englewood
+1920,001920,Cheri Pulizzi,Skagway
+1921,001921,Jeana Suckow,Bensenville
+1922,001922,Bailey Rouillard,Minnesota City
+1923,001923,Ernestine Fini,Haverhill
+1924,001924,Chanell Balladares,Harpursville
+1925,001925,Georgianne Josias,Lakeland
+1926,001926,Jada Tacopino,Oklahoma City
+1927,001927,Aiko Pinta,Bryan
+1928,001928,Cheryl Lesky,Anniston
+1929,001929,Melonie Kellett,Garden City
+1930,001930,Evonne Drummey,Big Piney
+1931,001931,Brandon Reveal,East Pharsalia
+1932,001932,Carlita Gewinner,Hebron
+1933,001933,Ehtel Constantineau,Ossian
+1934,001934,Casie Vulich,Englewood
+1935,001935,Khalilah Charron,Atlanta
+1936,001936,Nubia Umland,Townville
+1937,001937,Luci Helgerson,El Paso
+1938,001938,Jung Falgoust,Lake City
+1939,001939,Perla Parthemore,Des Moines
+1940,001940,Luanne Nasr,Fordyce
+1941,001941,Lizette Tucke,Maskell
+1942,001942,Natividad Nucklos,Davenport
+1943,001943,Cleopatra Geddie,Jefferson City
+1944,001944,Scott Steadings,Knoxville
+1945,001945,German Amble,Creve Coeur
+1946,001946,Heriberto Wolter,Issaquah
+1947,001947,Teddy Zeck,Bel Air
+1948,001948,Maribel Domagala,Six Mile
+1949,001949,Edmond Clerk,Redondo Beach
+1950,001950,Marylin Garlow,Prineville
+1951,001951,Eleni Piety,Washita
+1952,001952,Shawnda Sharko,Mineola
+1953,001953,Ligia Pedrotti,Harford
+1954,001954,Rich Strosnider,Wapello
+1955,001955,Shani Offermann,Austin
+1956,001956,Ossie Swantak,Rock Valley
+1957,001957,Maureen Bamba,New York City
+1958,001958,Tiesha Pilsner,Cornwall
+1959,001959,Dominga Ubiles,Spencer
+1960,001960,Katina Guidotti,Lawson
+1961,001961,Corrin Orahood,Neck City
+1962,001962,Christian Warrick,Montgomery
+1963,001963,Maynard Bannett,Louisburg
+1964,001964,Florene Capels,Switchback
+1965,001965,Karissa Hinely,New Brunswick
+1966,001966,Tawny Wearing,Grand Lake Stream
+1967,001967,Janna Swierenga,Turtle Creek
+1968,001968,Virgilio Draudt,Porter Corners
+1969,001969,Austin Berkheimer,Russell
+1970,001970,Domenica Vanstraten,Covington
+1971,001971,Young Karstetter,Saginaw
+1972,001972,Barbar Penning,Ponce De Leon
+1973,001973,Virgil Ada,Guerneville
+1974,001974,Belen Matusik,Addison
+1975,001975,Lashunda Preyor,Vendor
+1976,001976,Shana Smola,Brohman
+1977,001977,Arvilla Kennaugh,Knoxville
+1978,001978,Nidia Viscera,Broussard
+1979,001979,Abbey Locascio,Tyro
+1980,001980,Kina Hiltunen,Rockford
+1981,001981,Arlena Dezan,High Bridge
+1982,001982,Claris Chenauls,Peshastin
+1983,001983,Ginny Fersner,El Paso
+1984,001984,Katina Hennis,Jayton
+1985,001985,Lilian Servant,Corbin
+1986,001986,Jeanmarie Tavana,La Verkin
+1987,001987,Melvina Katzman,Malvern
+1988,001988,Chang Boje,Grand Rapids
+1989,001989,Dora Prager,Pompano Beach
+1990,001990,Margarette Scatton,Fair Haven
+1991,001991,Lucrecia Benston,Washington
+1992,001992,Yaeko Mackynen,Washington
+1993,001993,Reginia Haefele,Memphis
+1994,001994,Wallace Guerrette,Rochester
+1995,001995,Delmy Garinger,Starkville
+1996,001996,Elizabet Stagg,Edina
+1997,001997,Cherlyn Croxton,Bodega
+1998,001998,Natalya Ribot,Rocky Hill
+1999,001999,Giuseppina Kushlan,Mokane

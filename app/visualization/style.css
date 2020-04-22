@@ -1,0 +1,37 @@
+.chart rect { 
+    fill: turquoise, pink; 
+}
+
+.chart text { 
+    fill: white; 
+    font: 10px sans-serif; 
+    text-anchor: end; 
+}
+
+.d3-tip {
+    line-height: 1;
+    padding: 12px;
+    background: pink;
+    opacity: 0.2;
+    color: #fff;
+    border-radius: 30px;
+  }
+  
+  /* Creates a small triangle extender for the tooltip */
+  .d3-tip:after {
+    box-sizing: border-box;
+    display: inline;
+    width: 100%;
+    line-height: 1;
+    color: pink;
+    content: "\25BC";
+    position: absolute;
+    text-align: center;
+  }
+  
+  /* Style northward tooltips differently */
+  .d3-tip.n:after {
+    margin: -1px 0 0 0;
+    top: 100%;
+    left: 0;
+  }

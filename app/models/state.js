@@ -11,7 +11,9 @@ module.exports = (sequelize, DataTypes) => {
       allowNull: false,
       type: DataTypes.DATE
     }
-  }, {});
+  }, {
+    logging:false
+  });
   State.associate = function(models) {
     // associations can be defined here
   };

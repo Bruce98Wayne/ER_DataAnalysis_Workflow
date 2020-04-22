@@ -80,6 +80,6 @@ try {
         }
 }
 
-create()
+// create()
 
 module.exports = sequelize
